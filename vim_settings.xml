@@ -20,6 +20,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/sematnics-brand-checker/build.sbt" timestamp="1454093963686">
+        <mark key="[" line="6" column="61" />
+        <mark key="]" line="6" column="61" />
+        <mark key="^" line="6" column="61" />
+        <mark key="." line="6" column="61" />
+      </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/test/scala/com/willowtreeapps/burst/ProductServiceSpec.scala" timestamp="1451922427651">
         <mark key="[" line="122" column="11" />
         <mark key="]" line="122" column="18" />
@@ -56,6 +62,12 @@
       </file>
       <file name="/Dummy.scala" timestamp="1449673870223">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/sematnics-brand-checker/src/test/scala-2.11/com/willowtree/semantics/SemanticsClient.scala" timestamp="1454095685792">
+        <mark key="[" line="28" column="50" />
+        <mark key="]" line="28" column="55" />
+        <mark key="." line="28" column="55" />
+        <mark key="^" line="28" column="55" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/model/burst/BurstDetail.scala" timestamp="1448992409336">
         <mark key="[" line="8" column="23" />
@@ -180,13 +192,6 @@
         <mark key="]" line="30" column="38" />
         <mark key="^" line="30" column="62" />
         <mark key="." line="30" column="38" />
-      </file>
-      <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/service/BurstService.scala" timestamp="1449757290196">
-        <mark key="a" line="35" column="224" />
-        <mark key="[" line="30" column="67" />
-        <mark key="]" line="30" column="75" />
-        <mark key="^" line="30" column="75" />
-        <mark key="." line="30" column="75" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/model/product/CategoryResponse.scala" timestamp="1448384259223">
         <mark key="[" line="10" column="0" />
@@ -463,10 +468,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new GenericType[Seq[UserProduct]]() {}</text>
+        <text>JSONException</text>
       </register>
       <register name="-" type="4">
-        <text>new GenericType[Seq[UserProduct]]() {}</text>
+        <text>JSONException</text>
       </register>
       <register name="/" type="4">
         <text>ta</text>
@@ -475,34 +480,34 @@
         <text encoding="base64">Y2FzZSBjbGFzcyBVc2VyTGlrZVByb2R1Y3RzV3JhcHBlcihASnNvblByb3BlcnR5KCJVc2VyTGlrZVByb2R1Y3RzIikgcmVzdWx0czogU2VxW1VzZXJQcm9kdWN0XSkK</text>
       </register>
       <register name="1" type="4">
-        <text>new GenericType[Seq[UserProduct]]() {}</text>
+        <text>JSONException</text>
       </register>
       <register name="2" type="4">
-        <text>Seq[UserProduct]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>UserLikeProducts</text>
+        <text>???</text>
       </register>
       <register name="4" type="4">
-        <text>Like</text>
+        <text>com.semantics3.api.</text>
       </register>
       <register name="5" type="4">
-        <text>new GenericType[Seq[UserProduct]]() {}</text>
+        <text encoding="base64">PC92ZXJzaW9uPg==</text>
       </register>
       <register name="6" type="4">
-        <text>st</text>
+        <text encoding="base64">PHZlcnNpb24+</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="4">
-        <text>Seq[UserProduct]</text>
+        <text encoding="base64">PC9hcnRpZmFjdElkPg==</text>
       </register>
       <register name="8" type="4">
-        <text>new GenericType[Seq[SemanticsProduct]](){}</text>
+        <text encoding="base64">PGFydGlmYWN0SWQ+</text>
       </register>
       <register name="9" type="4">
-        <text>Seq[SemanticsProduct]</text>
+        <text encoding="base64">PC9ncm91cElkPg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -537,6 +542,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
