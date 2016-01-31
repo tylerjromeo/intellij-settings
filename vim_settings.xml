@@ -288,11 +288,11 @@
         <mark key="." line="11" column="60" />
         <mark key="^" line="11" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/sematnics-brand-checker/src/main/scala-2.11/com/willowtree/semantics/BrandChecker.scala" timestamp="1454203549184">
-        <mark key="[" line="34" column="47" />
-        <mark key="]" line="34" column="45" />
-        <mark key="." line="34" column="45" />
-        <mark key="^" line="34" column="45" />
+      <file name="$USER_HOME$/dev/sematnics-brand-checker/src/main/scala-2.11/com/willowtree/semantics/BrandChecker.scala" timestamp="1454205460968">
+        <mark key="[" line="26" column="39" />
+        <mark key="]" line="26" column="39" />
+        <mark key="." line="26" column="39" />
+        <mark key="^" line="34" column="46" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/service/IncentiveService.scala" timestamp="1449153011064">
         <mark key="[" line="16" column="129" />
@@ -474,10 +474,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>println</text>
+        <text encoding="base64">CgovLyAgdmFsIGJhZEJyYW5kcyA9IEZ1dHVyZS5zZXF1ZW5jZShCcmFuZERhdGFSZWFkZXIuY2F0ZWdvcnlNYXAudGFrZSgxKS5tYXAgeyAvL2RlbGV0ZSB0YWtlMSB3aGVuIHJlYWR5Ci8vICAgIGNhc2UgKGNhdGVnb3J5LCBicmFuZHMpID0+IHsKLy8gICAgICBGdXR1cmUudHJhdmVyc2UoYnJhbmRzLnRha2UoNSkpKGJyYW5kID0+IFNlbWFudGljc0NsaWVudC5nZXRQcm9kdWN0cyhjYXRlZ29yeSwgYnJhbmQpLm1hcCh4ID0+IChjYXRlZ29yeSwgaWYoeC5nZXRPckVsc2UoU2VxKCkpLmV4aXN0cyhfLmJyYW5kLmVxdWFsc0lnbm9yZUNhc2UoYnJhbmQpKSkgTm9uZSBlbHNlIFNvbWUoYnJhbmQpKSkpCi8vICAgIH0KLy8gIH0p</text>
       </register>
       <register name="-" type="4">
-        <text>println</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>ta</text>
@@ -486,37 +486,37 @@
         <text encoding="base64">ICB2YWwgd29ya2VyID0gc3lzdGVtLmFjdG9yT2YoUHJvcHMoY2xhc3NPZltFeHRlcm5hbEFwaUFjdG9yXSkpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>println</text>
+        <text encoding="base64">CgovLyAgdmFsIGJhZEJyYW5kcyA9IEZ1dHVyZS5zZXF1ZW5jZShCcmFuZERhdGFSZWFkZXIuY2F0ZWdvcnlNYXAudGFrZSgxKS5tYXAgeyAvL2RlbGV0ZSB0YWtlMSB3aGVuIHJlYWR5Ci8vICAgIGNhc2UgKGNhdGVnb3J5LCBicmFuZHMpID0+IHsKLy8gICAgICBGdXR1cmUudHJhdmVyc2UoYnJhbmRzLnRha2UoNSkpKGJyYW5kID0+IFNlbWFudGljc0NsaWVudC5nZXRQcm9kdWN0cyhjYXRlZ29yeSwgYnJhbmQpLm1hcCh4ID0+IChjYXRlZ29yeSwgaWYoeC5nZXRPckVsc2UoU2VxKCkpLmV4aXN0cyhfLmJyYW5kLmVxdWFsc0lnbm9yZUNhc2UoYnJhbmQpKSkgTm9uZSBlbHNlIFNvbWUoYnJhbmQpKSkpCi8vICAgIH0KLy8gIH0p</text>
       </register>
       <register name="2" type="4">
-        <text>.</text>
+        <text>5</text>
       </register>
       <register name="3" type="4">
-        <text>.</text>
+        <text>0</text>
       </register>
       <register name="4" type="4">
-        <text>h</text>
+        <text>take(10).</text>
       </register>
-      <register name="5" type="4">
-        <text>e</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgYXNrKHRocm90dGxlciwgKCIyMDIxNCIsICJhc2RmIikpCiAgICAgIGFzayh0aHJvdHRsZXIsICgiMjAyMTQiLCAiYWRpZGFzIikpCg==</text>
       </register>
       <register name="6" type="4">
-        <text>a</text>
+        <text encoding="base64">LmZvcmVhY2goKGNhdGVnb3J5LCBicmFuZHMpID0+IHs=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="7" type="4">
-        <text>d</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>)</text>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gICAgcHJpbnRsbihBd2FpdC5yZXN1bHQoYmFkQnJhbmRzLCA2MDAgc2Vjb25kKS5tYXAoXy50b0xpc3QpKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>)</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGFzayh0aHJvdHRsZXIsICgidGVzdCIsICJ0ZXN0IikpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -532,6 +532,7 @@
       </history-search>
       <history-cmd>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
