@@ -20,11 +20,11 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/sematnics-brand-checker/build.sbt" timestamp="1454184935775">
-        <mark key="[" line="8" column="70" />
-        <mark key="]" line="9" column="46" />
-        <mark key="^" line="9" column="46" />
-        <mark key="." line="9" column="22" />
+      <file name="$USER_HOME$/dev/sematnics-brand-checker/build.sbt" timestamp="1454201142411">
+        <mark key="[" line="10" column="52" />
+        <mark key="]" line="10" column="58" />
+        <mark key="^" line="10" column="58" />
+        <mark key="." line="10" column="58" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/test/scala/com/willowtreeapps/burst/ProductServiceSpec.scala" timestamp="1451922427651">
         <mark key="[" line="122" column="11" />
@@ -288,10 +288,11 @@
         <mark key="." line="11" column="60" />
         <mark key="^" line="11" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/sematnics-brand-checker/src/main/scala-2.11/com/willowtree/semantics/BrandChecker.scala" timestamp="1454184570742">
-        <mark key="[" line="15" column="34" />
-        <mark key="]" line="15" column="35" />
-        <mark key="." line="15" column="35" />
+      <file name="$USER_HOME$/dev/sematnics-brand-checker/src/main/scala-2.11/com/willowtree/semantics/BrandChecker.scala" timestamp="1454202668148">
+        <mark key="[" line="46" column="41" />
+        <mark key="]" line="46" column="56" />
+        <mark key="." line="46" column="56" />
+        <mark key="^" line="46" column="56" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/service/IncentiveService.scala" timestamp="1449153011064">
         <mark key="[" line="16" column="129" />
@@ -473,46 +474,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>JSONException</text>
+        <text>println</text>
       </register>
       <register name="-" type="4">
-        <text>JSONException</text>
+        <text>println</text>
       </register>
       <register name="/" type="4">
         <text>ta</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2FzZSBjbGFzcyBVc2VyTGlrZVByb2R1Y3RzV3JhcHBlcihASnNvblByb3BlcnR5KCJVc2VyTGlrZVByb2R1Y3RzIikgcmVzdWx0czogU2VxW1VzZXJQcm9kdWN0XSkK</text>
+        <text encoding="base64">ICB2YWwgd29ya2VyID0gc3lzdGVtLmFjdG9yT2YoUHJvcHMoY2xhc3NPZltFeHRlcm5hbEFwaUFjdG9yXSkpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>JSONException</text>
+        <text>println</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="3" type="4">
-        <text>???</text>
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text>com.semantics3.api.</text>
+        <text>h</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">PC92ZXJzaW9uPg==</text>
+        <text>e</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">PHZlcnNpb24+</text>
+        <text>a</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="4">
-        <text encoding="base64">PC9hcnRpZmFjdElkPg==</text>
+        <text>d</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">PGFydGlmYWN0SWQ+</text>
+        <text>)</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">PC9ncm91cElkPg==</text>
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
