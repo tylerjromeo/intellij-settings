@@ -288,11 +288,11 @@
         <mark key="." line="11" column="60" />
         <mark key="^" line="11" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/sematnics-brand-checker/src/main/scala-2.11/com/willowtree/semantics/BrandChecker.scala" timestamp="1454251830167">
-        <mark key="[" line="36" column="40" />
-        <mark key="]" line="36" column="40" />
-        <mark key="." line="36" column="40" />
-        <mark key="^" line="53" column="133" />
+      <file name="$USER_HOME$/dev/sematnics-brand-checker/src/main/scala-2.11/com/willowtree/semantics/BrandChecker.scala" timestamp="1454278512936">
+        <mark key="[" line="35" column="32" />
+        <mark key="]" line="34" column="39" />
+        <mark key="." line="34" column="39" />
+        <mark key="^" line="34" column="39" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/service/IncentiveService.scala" timestamp="1449153011064">
         <mark key="[" line="16" column="129" />
