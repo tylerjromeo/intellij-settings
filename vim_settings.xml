@@ -384,12 +384,12 @@
         <mark key="." line="10" column="102" />
         <mark key="^" line="10" column="79" />
       </file>
-      <file name="$USER_HOME$/dev/sematnics-brand-checker/src/main/scala-2.11/com/willowtree/semantics/BrandDataReader.scala" timestamp="1454353231228">
+      <file name="$USER_HOME$/dev/sematnics-brand-checker/src/main/scala-2.11/com/willowtree/semantics/BrandDataReader.scala" timestamp="1454354054292">
         <mark key="'" line="22" column="63" />
-        <mark key="[" line="22" column="4" />
-        <mark key="]" line="22" column="4" />
-        <mark key="." line="22" column="4" />
-        <mark key="^" line="22" column="132" />
+        <mark key="[" line="22" column="69" />
+        <mark key="]" line="15" column="62" />
+        <mark key="." line="15" column="62" />
+        <mark key="^" line="15" column="62" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/model/incentive/IncentiveDetails.scala" timestamp="1449583057038">
         <mark key="[" line="10" column="28" />
@@ -482,10 +482,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aWYobWFwLmNvbnRhaW5zKHNwbGl0KDApKSkg</text>
+        <text>++</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aWYobWFwLmNvbnRhaW5zKHNwbGl0KDApKSkg</text>
+        <text>++</text>
       </register>
       <register name="/" type="4">
         <text>ta</text>
@@ -494,34 +494,34 @@
         <text>s&quot;$category: $brand: $hasMatch&quot;</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">aWYobWFwLmNvbnRhaW5zKHNwbGl0KDApKSkg</text>
+        <text>++</text>
       </register>
       <register name="2" type="4">
-        <text />
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ZWxzZSBtYXAgKyAoc3BsaXQoMCkgLT4gTGlzdChzcGxpdCgxKSk=</text>
+        <text encoding="base64">aWYobWFwLmNvbnRhaW5zKHNwbGl0KDApKSkg</text>
       </register>
       <register name="4" type="4">
-        <text>)</text>
+        <text />
       </register>
       <register name="5" type="4">
-        <text>(</text>
+        <text encoding="base64">ZWxzZSBtYXAgKyAoc3BsaXQoMCkgLT4gTGlzdChzcGxpdCgxKSk=</text>
       </register>
       <register name="6" type="4">
-        <text>e</text>
+        <text>)</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="4">
-        <text>s</text>
+        <text>(</text>
       </register>
       <register name="8" type="4">
-        <text>l</text>
+        <text>e</text>
       </register>
       <register name="9" type="4">
-        <text>E</text>
+        <text>s</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
