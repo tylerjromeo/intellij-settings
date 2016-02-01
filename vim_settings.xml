@@ -384,11 +384,10 @@
         <mark key="." line="10" column="102" />
         <mark key="^" line="10" column="79" />
       </file>
-      <file name="$USER_HOME$/dev/sematnics-brand-checker/src/main/scala-2.11/com/willowtree/semantics/BrandDataReader.scala" timestamp="1454334928903">
-        <mark key="[" line="17" column="79" />
-        <mark key="]" line="17" column="36" />
-        <mark key="^" line="17" column="36" />
-        <mark key="." line="17" column="36" />
+      <file name="$USER_HOME$/dev/sematnics-brand-checker/src/main/scala-2.11/com/willowtree/semantics/BrandDataReader.scala" timestamp="1454335733608">
+        <mark key="[" line="17" column="41" />
+        <mark key="]" line="17" column="41" />
+        <mark key="." line="17" column="41" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/model/incentive/IncentiveDetails.scala" timestamp="1449583057038">
         <mark key="[" line="10" column="28" />
@@ -480,10 +479,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;badBrands.txt&quot;</text>
+        <text>getClass.getResourceAsStream(fileName)</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;badBrands.txt&quot;</text>
+        <text>getClass.getResourceAsStream(fileName)</text>
       </register>
       <register name="/" type="4">
         <text>ta</text>
@@ -492,34 +491,34 @@
         <text>s&quot;$category: $brand: $hasMatch&quot;</text>
       </register>
       <register name="1" type="4">
-        <text>&quot;badBrands.txt&quot;</text>
+        <text>getClass.getResourceAsStream(fileName)</text>
       </register>
-      <register name="2" type="4">
-        <text>take(20).</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBkZWYgcmVzdWx0RGF0YUZpbGUoZmlsZU5hbWU6IFN0cmluZykgPSBnZXRDbGFzcy5nZXRSZXNvdXJjZUFzU3RyZWFtKGZpbGVOYW1lKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>APPE</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBkZWYgcmVzdWx0RGF0YUZpbGUoZmlsZU5hbWU6IFN0cmluZykgPSBnZXRDbGFzcy5nZXRSZXNvdXJjZUFzU3RyZWFtKGZpbGVOYW1lKQo=</text>
       </register>
       <register name="4" type="4">
-        <text>ND</text>
+        <text>&quot;badBrands.txt&quot;</text>
       </register>
       <register name="5" type="4">
-        <text>: $hasMatch</text>
+        <text>take(20).</text>
       </register>
       <register name="6" type="4">
-        <text>&quot;output.txt&quot;</text>
+        <text>APPE</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdmFsIG91dHB1dEZpbGUgPSBpZihoYXNNYXRjaCkgImdvb2RCcmFuZHMudHh0IiBlbHNlICJiYWRCcmFuZHMudHh0Igo=</text>
+      <register name="7" type="4">
+        <text>ND</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">aWYg</text>
+        <text>: $hasMatch</text>
       </register>
       <register name="9" type="4">
-        <text>:</text>
+        <text>&quot;output.txt&quot;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
