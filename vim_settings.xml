@@ -495,7 +495,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>input.equalsIgnoreCase(&quot;y&quot;)</text>
+        <text />
       </register>
       <register name="-" type="4">
         <text>input.equalsIgnoreCase(&quot;y&quot;)</text>
@@ -503,8 +503,8 @@
       <register name="/" type="4">
         <text>ta</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnZlcnRUb1Byb2R1Y3RzKHNlbWFudGljc0NsaWVudC5wcm9kdWN0c0ZpZWxkKCJzZWFyY2giLCBicmFuZCkKICAgICAgLnByb2R1Y3RzRmllbGQoImNhdF9pZCIsIGNhdGVnb3J5SWQpCg==</text>
+      <register name="0" type="4">
+        <text />
       </register>
       <register name="1" type="4">
         <text>input.equalsIgnoreCase(&quot;y&quot;)</text>
