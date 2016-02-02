@@ -251,6 +251,12 @@
         <mark key="." line="10" column="16" />
         <mark key="^" line="10" column="16" />
       </file>
+      <file name="$USER_HOME$/dev/sematnics-brand-checker/src/main/scala-2.11/com/willowtree/semantics/SemanticsClient.scala" timestamp="1454424098526">
+        <mark key="[" line="33" column="49" />
+        <mark key="]" line="33" column="47" />
+        <mark key="." line="33" column="47" />
+        <mark key="^" line="33" column="47" />
+      </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/model/user/UserProduct.scala" timestamp="1451939312302">
         <mark key="[" line="19" column="50" />
         <mark key="]" line="19" column="55" />
@@ -293,11 +299,12 @@
         <mark key="." line="11" column="60" />
         <mark key="^" line="11" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/sematnics-brand-checker/src/main/scala-2.11/com/willowtree/semantics/BrandChecker.scala" timestamp="1454422611959">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="43" column="65" />
+      <file name="$USER_HOME$/dev/sematnics-brand-checker/src/main/scala-2.11/com/willowtree/semantics/BrandChecker.scala" timestamp="1454425245416">
+        <mark key="'" line="51" column="76" />
+        <mark key="[" line="57" column="43" />
+        <mark key="]" line="58" column="65" />
+        <mark key="." line="58" column="65" />
+        <mark key="^" line="58" column="65" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/service/IncentiveService.scala" timestamp="1449153011064">
         <mark key="[" line="16" column="129" />
@@ -389,12 +396,12 @@
         <mark key="." line="10" column="102" />
         <mark key="^" line="10" column="79" />
       </file>
-      <file name="$USER_HOME$/dev/sematnics-brand-checker/src/main/scala-2.11/com/willowtree/semantics/BrandDataReader.scala" timestamp="1454422879554">
+      <file name="$USER_HOME$/dev/sematnics-brand-checker/src/main/scala-2.11/com/willowtree/semantics/BrandDataReader.scala" timestamp="1454423584654">
         <mark key="'" line="22" column="63" />
-        <mark key="[" line="38" column="48" />
-        <mark key="]" line="38" column="46" />
-        <mark key="." line="38" column="46" />
-        <mark key="^" line="38" column="46" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="36" column="129" />
+        <mark key="." line="36" column="129" />
+        <mark key="^" line="36" column="129" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/model/incentive/IncentiveDetails.scala" timestamp="1449583057038">
         <mark key="[" line="10" column="28" />
@@ -484,34 +491,35 @@
       <jump line="98" column="55" filename="$USER_HOME$/dev/burst-acceptance-tests/src/test/scala/com/willowtreeapps/burst/UserServiceSpec.scala" />
       <jump line="141" column="6" filename="$USER_HOME$/dev/burst-acceptance-tests/src/test/scala/com/willowtreeapps/burst/ProductServiceSpec.scala" />
       <jump line="22" column="63" filename="$USER_HOME$/dev/sematnics-brand-checker/src/main/scala-2.11/com/willowtree/semantics/BrandDataReader.scala" />
+      <jump line="51" column="76" filename="$USER_HOME$/dev/sematnics-brand-checker/src/main/scala-2.11/com/willowtree/semantics/BrandChecker.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHByaW50bG4oaW5wdXQpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>bad</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>ta</text>
       </register>
-      <register name="0" type="4">
-        <text>s&quot;$category: $brand: $hasMatch&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnZlcnRUb1Byb2R1Y3RzKHNlbWFudGljc0NsaWVudC5wcm9kdWN0c0ZpZWxkKCJzZWFyY2giLCBicmFuZCkKICAgICAgLnByb2R1Y3RzRmllbGQoImNhdF9pZCIsIGNhdGVnb3J5SWQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHByaW50bG4oaW5wdXQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5leGl0KDApCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNhdElkIDwtIGNhdElkcwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>bad</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIEJyYW5kRGF0YVJlYWRlci5iYWRCcmFuZHNCeUNhdGVnb3J5TmFtZQo=</text>
       </register>
       <register name="4" type="4">
-        <text>false</text>
+        <text encoding="base64">CiAgICAgICAgICBhc2sodGhyb3R0bGVyLCAoY2F0SWQsIGJyYW5kKSkKICAgICAgICAgICAgaW5wdXQgPSBzY2FsYS5pby5TdGRJbi5yZWFkTGluZSgpCiAgICAgICAgICBwcmludGxuKGlucHV0KQ==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">CiAgICAgICAgICBhc2sodGhyb3R0bGVyLCAoY2F0SWQsIGJyYW5kKSkKICAgICAgICAgICAgaW5wdXQgPSBzY2FsYS5pby5TdGRJbi5yZWFkTGluZSgpCiAgICAgICAgICBwcmludGxuKGlucHV0</text>
       </register>
       <register name="6" type="4">
         <text>}</text>
@@ -520,13 +528,13 @@
         <text />
       </register>
       <register name="7" type="4">
-        <text>{ println(s&quot;$name, $brand&quot;)</text>
+        <text>Success</text>
       </register>
       <register name="8" type="4">
-        <text>union</text>
+        <text>SemanticsClient.getProductsAsJson(category, brand)</text>
       </register>
       <register name="9" type="4">
-        <text>)</text>
+        <text>category, brand</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
