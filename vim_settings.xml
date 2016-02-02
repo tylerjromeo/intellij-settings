@@ -299,12 +299,12 @@
         <mark key="." line="11" column="60" />
         <mark key="^" line="11" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/sematnics-brand-checker/src/main/scala-2.11/com/willowtree/semantics/BrandChecker.scala" timestamp="1454425245416">
-        <mark key="'" line="51" column="76" />
-        <mark key="[" line="57" column="43" />
-        <mark key="]" line="58" column="65" />
-        <mark key="." line="58" column="65" />
-        <mark key="^" line="58" column="65" />
+      <file name="$USER_HOME$/dev/sematnics-brand-checker/src/main/scala-2.11/com/willowtree/semantics/BrandChecker.scala" timestamp="1454428062350">
+        <mark key="'" line="50" column="76" />
+        <mark key="[" line="57" column="57" />
+        <mark key="]" line="57" column="60" />
+        <mark key="." line="57" column="60" />
+        <mark key="^" line="57" column="60" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/service/IncentiveService.scala" timestamp="1449153011064">
         <mark key="[" line="16" column="129" />
@@ -494,11 +494,11 @@
       <jump line="51" column="76" filename="$USER_HOME$/dev/sematnics-brand-checker/src/main/scala-2.11/com/willowtree/semantics/BrandChecker.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByaW50bG4oaW5wdXQpCg==</text>
+      <register name="&quot;" type="4">
+        <text>input.equalsIgnoreCase(&quot;y&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>input.equalsIgnoreCase(&quot;y&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>ta</text>
@@ -506,35 +506,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnZlcnRUb1Byb2R1Y3RzKHNlbWFudGljc0NsaWVudC5wcm9kdWN0c0ZpZWxkKCJzZWFyY2giLCBicmFuZCkKICAgICAgLnByb2R1Y3RzRmllbGQoImNhdF9pZCIsIGNhdGVnb3J5SWQpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByaW50bG4oaW5wdXQpCg==</text>
+      <register name="1" type="4">
+        <text>input.equalsIgnoreCase(&quot;y&quot;)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhdElkIDwtIGNhdElkcwo=</text>
+        <text encoding="base64">ICAgIHZhciBpbnB1dCA9ICIiCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIEJyYW5kRGF0YVJlYWRlci5iYWRCcmFuZHNCeUNhdGVnb3J5TmFtZQo=</text>
+      <register name="3" type="4">
+        <text>|</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICBhc2sodGhyb3R0bGVyLCAoY2F0SWQsIGJyYW5kKSkKICAgICAgICAgICAgaW5wdXQgPSBzY2FsYS5pby5TdGRJbi5yZWFkTGluZSgpCiAgICAgICAgICBwcmludGxuKGlucHV0KQ==</text>
+        <text>|</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICBhc2sodGhyb3R0bGVyLCAoY2F0SWQsIGJyYW5kKSkKICAgICAgICAgICAgaW5wdXQgPSBzY2FsYS5pby5TdGRJbi5yZWFkTGluZSgpCiAgICAgICAgICBwcmludGxuKGlucHV0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>}</text>
+        <text>c</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="4">
-        <text>Success</text>
+        <text>c</text>
       </register>
       <register name="8" type="4">
-        <text>SemanticsClient.getProductsAsJson(category, brand)</text>
+        <text>a</text>
       </register>
       <register name="9" type="4">
-        <text>category, brand</text>
+        <text encoding="base64">aW5wdXQgPSA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
