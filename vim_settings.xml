@@ -198,6 +198,7 @@
         <mark key="^" line="30" column="62" />
         <mark key="." line="30" column="38" />
       </file>
+      <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/service/BurstService.scala" timestamp="1454698351468" />
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/model/product/CategoryResponse.scala" timestamp="1448384259223">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="4" />
