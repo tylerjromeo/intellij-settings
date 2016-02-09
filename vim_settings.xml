@@ -15,6 +15,11 @@
         <mark key="^" line="8" column="65" />
         <mark key="." line="8" column="65" />
       </file>
+      <file name="$USER_HOME$/dev/lidl-json-store/run.sh" timestamp="1455040575182">
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/bubble-sort-service/src/main/java/com/willowtreeapps/bubblesort/Main.java" timestamp="1450383811837">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -241,6 +246,11 @@
         <mark key="^" line="96" column="0" />
         <mark key="." line="25" column="12" />
       </file>
+      <file name="$USER_HOME$/dev/test-project-gatling/build.sbt" timestamp="1450290374775">
+        <mark key="]" line="6" column="85" />
+        <mark key="^" line="6" column="85" />
+        <mark key="." line="6" column="85" />
+      </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/model/product/ProductResultsWrapper.scala" timestamp="1451922322612">
         <mark key="[" line="8" column="32" />
         <mark key="]" line="10" column="86" />
@@ -466,11 +476,11 @@
         <mark key="." line="25" column="65" />
         <mark key="^" line="25" column="65" />
       </file>
-      <file name="$USER_HOME$/dev/lidl-json-store/Procfile" timestamp="1455036084812">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="46" />
-        <mark key="." line="0" column="46" />
-        <mark key="^" line="0" column="46" />
+      <file name="$USER_HOME$/dev/lidl-json-store/Procfile" timestamp="1455040538430">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+        <mark key="^" line="0" column="10" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/hasJsonParsing.scala" timestamp="1444403581006">
         <mark key="[" line="10" column="6" />
@@ -521,10 +531,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>start Web</text>
+        <text>target/scala-2.11/lidl-json-store_2.11-1.0</text>
       </register>
       <register name="-" type="4">
-        <text>start Web</text>
+        <text>target/scala-2.11/lidl-json-store_2.11-1.0</text>
       </register>
       <register name="/" type="4">
         <text>rou</text>
@@ -533,22 +543,22 @@
         <text encoding="base64">ICAgICAgICByZXNwb25kV2l0aE1lZGlhVHlwZShNZWRpYVR5cGVzLmBhcHBsaWNhdGlvbi9qc29uYCkgewo=</text>
       </register>
       <register name="1" type="4">
-        <text>start Web</text>
+        <text>target/scala-2.11/lidl-json-store_2.11-1.0</text>
       </register>
       <register name="2" type="4">
-        <text>settings(com.typesafe.sbt.SbtNativePackager.packageArchetype.java_application: _*)</text>
+        <text>start Web</text>
       </register>
       <register name="3" type="4">
+        <text>settings(com.typesafe.sbt.SbtNativePackager.packageArchetype.java_application: _*)</text>
+      </register>
+      <register name="4" type="4">
         <text>Resolver</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20udHlwZXNhZmUuc2J0IiAlICJzYnQtbmF0aXZlLXBhY2thZ2VyIiAlICIwLjguMCIpCg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>,</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -557,10 +567,10 @@
         <text>,</text>
       </register>
       <register name="8" type="4">
-        <text>prettyPrint</text>
+        <text>,</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>prettyPrint</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
