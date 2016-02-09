@@ -172,11 +172,11 @@
         <mark key="^" line="23" column="6" />
         <mark key="." line="23" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/lidl-json-store/src/main/scala-2.11/Main.scala" timestamp="1455042878978">
-        <mark key="[" line="34" column="35" />
-        <mark key="]" line="34" column="41" />
-        <mark key="." line="34" column="41" />
-        <mark key="^" line="34" column="41" />
+      <file name="$USER_HOME$/dev/lidl-json-store/src/main/scala-2.11/Main.scala" timestamp="1455048700326">
+        <mark key="[" line="22" column="44" />
+        <mark key="]" line="22" column="85" />
+        <mark key="." line="22" column="85" />
+        <mark key="^" line="22" column="85" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/BurstsService.scala" timestamp="1444836628844">
         <mark key="[" line="18" column="21" />
@@ -531,10 +531,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Accepted</text>
+        <text>8080</text>
       </register>
       <register name="-" type="4">
-        <text>Accepted</text>
+        <text>8080</text>
       </register>
       <register name="/" type="4">
         <text>rou</text>
@@ -543,34 +543,34 @@
         <text encoding="base64">ICAgICAgICByZXNwb25kV2l0aE1lZGlhVHlwZShNZWRpYVR5cGVzLmBhcHBsaWNhdGlvbi9qc29uYCkgewo=</text>
       </register>
       <register name="1" type="4">
-        <text>Accepted</text>
+        <text>8080</text>
       </register>
       <register name="2" type="4">
-        <text>run.sh</text>
+        <text>localhost</text>
       </register>
       <register name="3" type="4">
-        <text>target/scala-2.11/lidl-json-store_2.11-1.0</text>
+        <text>0</text>
       </register>
       <register name="4" type="4">
-        <text>start Web</text>
+        <text>8</text>
       </register>
       <register name="5" type="4">
-        <text>settings(com.typesafe.sbt.SbtNativePackager.packageArchetype.java_application: _*)</text>
+        <text>Accepted</text>
       </register>
       <register name="6" type="4">
-        <text>Resolver</text>
+        <text>run.sh</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>target/scala-2.11/lidl-json-store_2.11-1.0</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20udHlwZXNhZmUuc2J0IiAlICJzYnQtbmF0aXZlLXBhY2thZ2VyIiAlICIwLjguMCIpCg==</text>
+      <register name="8" type="4">
+        <text>start Web</text>
       </register>
       <register name="9" type="4">
-        <text>,</text>
+        <text>settings(com.typesafe.sbt.SbtNativePackager.packageArchetype.java_application: _*)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
