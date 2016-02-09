@@ -154,12 +154,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/lidl-json-store/src/main/scala-2.11/Datastore.scala" timestamp="1454962460032">
+      <file name="$USER_HOME$/dev/lidl-json-store/src/main/scala-2.11/Datastore.scala" timestamp="1455027918963">
         <mark key="u" line="14" column="11" />
-        <mark key="[" line="10" column="24" />
-        <mark key="]" line="10" column="37" />
-        <mark key="." line="10" column="37" />
-        <mark key="^" line="10" column="37" />
+        <mark key="[" line="18" column="87" />
+        <mark key="]" line="18" column="93" />
+        <mark key="." line="18" column="93" />
+        <mark key="^" line="18" column="93" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/test/scala/ExampleSpec.scala" timestamp="1444249439617">
         <mark key="[" line="23" column="7" />
@@ -167,12 +167,12 @@
         <mark key="^" line="23" column="6" />
         <mark key="." line="23" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/lidl-json-store/src/main/scala-2.11/Main.scala" timestamp="1454962732745">
+      <file name="$USER_HOME$/dev/lidl-json-store/src/main/scala-2.11/Main.scala" timestamp="1455027836480">
         <mark key="'" line="20" column="37" />
-        <mark key="[" line="21" column="62" />
-        <mark key="]" line="16" column="47" />
-        <mark key="." line="16" column="47" />
-        <mark key="^" line="16" column="47" />
+        <mark key="[" line="29" column="15" />
+        <mark key="]" line="29" column="15" />
+        <mark key="." line="29" column="15" />
+        <mark key="^" line="29" column="20" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/BurstsService.scala" timestamp="1444836628844">
         <mark key="[" line="18" column="21" />
@@ -212,11 +212,11 @@
         <mark key="^" line="30" column="62" />
         <mark key="." line="30" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/lidl-json-store/build.sbt" timestamp="1454960955229">
-        <mark key="[" line="11" column="68" />
-        <mark key="]" line="13" column="16" />
-        <mark key="^" line="13" column="16" />
-        <mark key="." line="13" column="16" />
+      <file name="$USER_HOME$/dev/lidl-json-store/build.sbt" timestamp="1455027332437">
+        <mark key="[" line="10" column="58" />
+        <mark key="]" line="10" column="59" />
+        <mark key="^" line="10" column="59" />
+        <mark key="." line="10" column="59" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/model/product/CategoryResponse.scala" timestamp="1448384259223">
         <mark key="[" line="10" column="0" />
@@ -517,10 +517,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>String</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>rou</text>
@@ -529,34 +529,34 @@
         <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArPSAiaW8uc3ByYXkiICUlICJzcHJheS1yb3V0aW5nIiAlICIxLjMuMyIK</text>
       </register>
       <register name="1" type="4">
-        <text>)</text>
+        <text>String</text>
       </register>
       <register name="2" type="4">
-        <text>(</text>
+        <text>String</text>
       </register>
       <register name="3" type="4">
-        <text>get</text>
+        <text>String</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text>String</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZihkYXRhc3RvcmUuZXhpc3RzKGlkKSkgZGF0YXN0b3JlLmdldChpZCkubWFwKHYgPT4gY29tcGxldGUoU3RhdHVzQ29kZXMuT0ssIC5nZXQodikpKS5nZXRPckVsc2Uocm91dGU0MDQpIGVsc2Ugcm91dGU0MDQK</text>
+      <register name="5" type="4">
+        <text>toJson</text>
       </register>
       <register name="6" type="4">
-        <text>datastore</text>
+        <text>JSON</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="7" type="4">
-        <text>complete(StatusCodes.NotFound)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICB2YWwganNvbjQwNCA9IAo=</text>
       </register>
       <register name="8" type="4">
-        <text>, s&quot;you posted $id\n\nwith body $body&quot;</text>
+        <text>json404.prettyPrint</text>
       </register>
       <register name="9" type="4">
-        <text>$</text>
+        <text>JsObject(Map(&quot;error&quot;, JsString(&quot;Resource not found&quot;)))</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
