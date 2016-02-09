@@ -11,6 +11,7 @@
     <extensionMap>
       <mapping ext="story" type="Groovy" />
       <mapping ext="specification" type="Groovy" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="sbt" type="PLAIN_TEXT" />
     </extensionMap>
   </component>

@@ -211,11 +211,11 @@
         <mark key="^" line="30" column="62" />
         <mark key="." line="30" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/lidl-json-store/build.sbt" timestamp="1455027332437">
-        <mark key="[" line="10" column="58" />
-        <mark key="]" line="10" column="59" />
-        <mark key="^" line="10" column="59" />
-        <mark key="." line="10" column="59" />
+      <file name="$USER_HOME$/dev/lidl-json-store/build.sbt" timestamp="1455034852971">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="30" />
+        <mark key="." line="8" column="30" />
+        <mark key="^" line="8" column="30" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/model/product/CategoryResponse.scala" timestamp="1448384259223">
         <mark key="[" line="10" column="0" />
@@ -368,11 +368,10 @@
         <mark key="." line="8" column="65" />
         <mark key="^" line="8" column="65" />
       </file>
-      <file name="$USER_HOME$/dev/lidl-json-store/project/plugins.sbt" timestamp="1454961219039">
-        <mark key="[" line="1" column="48" />
-        <mark key="]" line="1" column="49" />
-        <mark key="^" line="1" column="49" />
-        <mark key="." line="1" column="49" />
+      <file name="$USER_HOME$/dev/lidl-json-store/project/plugins.sbt" timestamp="1455034824668">
+        <mark key="[" line="2" column="63" />
+        <mark key="]" line="2" column="64" />
+        <mark key="." line="2" column="64" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/model/login/RegisterRequest.scala" timestamp="1448330277710">
         <mark key="[" line="12" column="23" />
@@ -467,6 +466,11 @@
         <mark key="." line="25" column="65" />
         <mark key="^" line="25" column="65" />
       </file>
+      <file name="$USER_HOME$/dev/lidl-json-store/Procfile" timestamp="1455034568856">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/hasJsonParsing.scala" timestamp="1444403581006">
         <mark key="[" line="10" column="6" />
         <mark key="]" line="10" column="7" />
@@ -515,11 +519,11 @@
       <jump line="17" column="37" filename="$USER_HOME$/dev/lidl-json-store/src/main/scala-2.11/Main.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25kV2l0aE1lZGlhVHlwZShNZWRpYVR5cGVzLmBhcHBsaWNhdGlvbi9qc29uYCkgewo=</text>
+      <register name="&quot;" type="4">
+        <text>settings(com.typesafe.sbt.SbtNativePackager.packageArchetype.java_application: _*)</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>settings(com.typesafe.sbt.SbtNativePackager.packageArchetype.java_application: _*)</text>
       </register>
       <register name="/" type="4">
         <text>rou</text>
@@ -528,34 +532,34 @@
         <text encoding="base64">ICAgICAgICByZXNwb25kV2l0aE1lZGlhVHlwZShNZWRpYVR5cGVzLmBhcHBsaWNhdGlvbi9qc29uYCkgewo=</text>
       </register>
       <register name="1" type="4">
-        <text>,</text>
+        <text>settings(com.typesafe.sbt.SbtNativePackager.packageArchetype.java_application: _*)</text>
       </register>
       <register name="2" type="4">
-        <text>,</text>
+        <text>Resolver</text>
       </register>
-      <register name="3" type="4">
-        <text>prettyPrint</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>.</text>
+      <register name="4" type="2">
+        <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20udHlwZXNhZmUuc2J0IiAlICJzYnQtbmF0aXZlLXBhY2thZ2VyIiAlICIwLjguMCIpCg==</text>
       </register>
       <register name="5" type="4">
-        <text>JsObject(Map(&quot;error&quot;, JsString(&quot;Could not parse json&quot;)))</text>
+        <text>,</text>
       </register>
       <register name="6" type="4">
-        <text>Resource not found</text>
+        <text>,</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="4">
-        <text>JsObject(Map(&quot;error&quot;, JsString(&quot;Resource not found&quot;))).prettyPrint</text>
+        <text>prettyPrint</text>
       </register>
       <register name="8" type="4">
-        <text>String</text>
+        <text>.</text>
       </register>
       <register name="9" type="4">
-        <text>OK</text>
+        <text>JsObject(Map(&quot;error&quot;, JsString(&quot;Could not parse json&quot;)))</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
