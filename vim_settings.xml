@@ -74,6 +74,12 @@
         <mark key="." line="28" column="55" />
         <mark key="^" line="28" column="55" />
       </file>
+      <file name="$USER_HOME$/dev/salix/cbc-cms/src/main/webapp/src/js/actions/users.js" timestamp="1455120057517">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="0" column="31" />
+        <mark key="^" line="0" column="31" />
+        <mark key="." line="0" column="31" />
+      </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/model/burst/BurstDetail.scala" timestamp="1448992409336">
         <mark key="[" line="8" column="23" />
         <mark key="]" line="10" column="69" />
@@ -127,11 +133,23 @@
         <mark key="^" line="15" column="78" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/salix/cbc-cms/src/main/webapp/src/js/actions/fetch.js" timestamp="1455119944791">
+        <mark key="[" line="2" column="62" />
+        <mark key="]" line="2" column="64" />
+        <mark key="^" line="2" column="64" />
+        <mark key="." line="2" column="64" />
+      </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/model/BurstErrors.scala" timestamp="1449238439977">
         <mark key="[" line="10" column="61" />
         <mark key="]" line="10" column="64" />
         <mark key="^" line="10" column="64" />
         <mark key="." line="10" column="64" />
+      </file>
+      <file name="$USER_HOME$/dev/salix/cbc-cms/src/main/webapp/src/js/actions/update.js" timestamp="1455120027526">
+        <mark key="[" line="1" column="55" />
+        <mark key="]" line="1" column="55" />
+        <mark key="^" line="1" column="55" />
+        <mark key="." line="1" column="55" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/service/BurstsService.scala" timestamp="1448049548775">
         <mark key="[" line="13" column="73" />
@@ -234,6 +252,12 @@
         <mark key="." line="19" column="40" />
         <mark key="^" line="19" column="40" />
       </file>
+      <file name="$USER_HOME$/dev/salix/cbc-cms/src/main/webapp/src/js/api/login.js" timestamp="1455119976293">
+        <mark key="[" line="2" column="35" />
+        <mark key="]" line="2" column="37" />
+        <mark key="^" line="2" column="37" />
+        <mark key="." line="2" column="37" />
+      </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/model/product/SemanticsProduct.scala" timestamp="1449001952704">
         <mark key="[" line="16" column="43" />
         <mark key="]" line="23" column="70" />
@@ -311,16 +335,20 @@
         <mark key="." line="12" column="54" />
         <mark key="^" line="12" column="54" />
       </file>
+      <file name="$USER_HOME$/dev/salix/cbc-cms/src/main/webapp/src/js/actions/create.js" timestamp="1455119962662">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="0" column="31" />
+        <mark key="." line="0" column="31" />
+        <mark key="^" line="0" column="31" />
+      </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/model/burst/GetBurstResponse.scala" timestamp="1449590381427">
         <mark key="[" line="8" column="27" />
         <mark key="]" line="8" column="66" />
         <mark key="^" line="8" column="66" />
         <mark key="." line="8" column="66" />
       </file>
-      <file name="$USER_HOME$/dev/salix/cbc-cms/src/main/webapp/build/index.html" timestamp="1455118572814">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/dev/salix/cbc-cms/src/main/webapp/build/index.html" timestamp="1455119778123">
+        <mark key="[" line="21" column="83" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/model/login/LoginResponse.scala" timestamp="1448328440173">
         <mark key="[" line="11" column="49" />
@@ -487,6 +515,12 @@
         <mark key="^" line="16" column="23" />
         <mark key="." line="16" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/salix/cbc-cms/src/main/webapp/src/js/actions/delete.js" timestamp="1455120010526">
+        <mark key="[" line="1" column="33" />
+        <mark key="]" line="1" column="33" />
+        <mark key="^" line="1" column="33" />
+        <mark key="." line="1" column="33" />
+      </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/model/user/UserDetails.scala" timestamp="1448387439829">
         <mark key="[" line="25" column="39" />
         <mark key="]" line="25" column="65" />
@@ -547,11 +581,11 @@
       <jump line="17" column="37" filename="$USER_HOME$/dev/lidl-json-store/src/main/scala-2.11/Main.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>actions</text>
       </register>
       <register name="-" type="4">
-        <text>build</text>
+        <text>actions</text>
       </register>
       <register name="/" type="4">
         <text>rou</text>
@@ -559,35 +593,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXNwb25kV2l0aE1lZGlhVHlwZShNZWRpYVR5cGVzLmBhcHBsaWNhdGlvbi9qc29uYCkgewo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>actions</text>
+      </register>
+      <register name="2" type="4">
+        <text>actions</text>
+      </register>
+      <register name="3" type="4">
+        <text>actions</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICBJIG5lZWQgdG8gYmUgYSBsaXR0bGUgcXVpZXRlciBpd2ggbWUgdGlwd2kK</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHBsZWF6YXNlIGFkdmlzZQo=</text>
-      </register>
-      <register name="4" type="4">
-        <text>build</text>
-      </register>
-      <register name="5" type="4">
-        <text>js</text>
-      </register>
-      <register name="6" type="4">
-        <text>/../../../</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="4">
-        <text>.</text>
+        <text>build</text>
       </register>
       <register name="8" type="4">
-        <text>/Users/vijumathew/Projects/cbc-cms/</text>
+        <text>js</text>
       </register>
       <register name="9" type="4">
-        <text>8080</text>
+        <text>/../../../</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
