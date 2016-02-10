@@ -432,6 +432,12 @@
         <mark key="." line="36" column="129" />
         <mark key="^" line="36" column="129" />
       </file>
+      <file name="$USER_HOME$/dev/salix/cbc-cms/src/main/webapp/index.html" timestamp="1455114218329">
+        <mark key="[" line="20" column="23" />
+        <mark key="]" line="20" column="27" />
+        <mark key="." line="20" column="27" />
+        <mark key="^" line="20" column="27" />
+      </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/model/incentive/IncentiveDetails.scala" timestamp="1449583057038">
         <mark key="[" line="10" column="28" />
         <mark key="]" line="10" column="28" />
@@ -464,11 +470,11 @@
         <mark key="." line="19" column="85" />
         <mark key="^" line="19" column="165" />
       </file>
-      <file name="$USER_HOME$/dev/salix/cbc-cms/src/main/webapp/config/webpack.js" timestamp="1455112875664">
-        <mark key="[" line="55" column="24" />
-        <mark key="]" line="7" column="24" />
-        <mark key="^" line="7" column="24" />
-        <mark key="." line="7" column="24" />
+      <file name="$USER_HOME$/dev/salix/cbc-cms/src/main/webapp/config/webpack.js" timestamp="1455114011699">
+        <mark key="[" line="55" column="18" />
+        <mark key="]" line="55" column="18" />
+        <mark key="^" line="55" column="18" />
+        <mark key="." line="55" column="18" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/TestRunner.scala" timestamp="1449684156568">
         <mark key="[" line="14" column="21" />
@@ -537,10 +543,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/Users/vijumathew/Projects/cbc-cms/</text>
+        <text>js</text>
       </register>
       <register name="-" type="4">
-        <text>/Users/vijumathew/Projects/cbc-cms/</text>
+        <text>js</text>
       </register>
       <register name="/" type="4">
         <text>rou</text>
@@ -549,34 +555,34 @@
         <text encoding="base64">ICAgICAgICByZXNwb25kV2l0aE1lZGlhVHlwZShNZWRpYVR5cGVzLmBhcHBsaWNhdGlvbi9qc29uYCkgewo=</text>
       </register>
       <register name="1" type="4">
-        <text>/Users/vijumathew/Projects/cbc-cms/</text>
+        <text>js</text>
       </register>
       <register name="2" type="4">
-        <text>8080</text>
+        <text>/../../../</text>
       </register>
       <register name="3" type="4">
-        <text>localhost</text>
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text>0</text>
+        <text>/Users/vijumathew/Projects/cbc-cms/</text>
       </register>
       <register name="5" type="4">
-        <text>8</text>
+        <text>8080</text>
       </register>
       <register name="6" type="4">
-        <text>Accepted</text>
+        <text>localhost</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="4">
-        <text>run.sh</text>
+        <text>0</text>
       </register>
       <register name="8" type="4">
-        <text>target/scala-2.11/lidl-json-store_2.11-1.0</text>
+        <text>8</text>
       </register>
       <register name="9" type="4">
-        <text>start Web</text>
+        <text>Accepted</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
