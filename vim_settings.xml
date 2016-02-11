@@ -296,11 +296,13 @@
         <mark key="." line="19" column="85" />
         <mark key="^" line="19" column="165" />
       </file>
-      <file name="$USER_HOME$/dev/salix/cbc-cms/src/main/webapp/config/webpack.js" timestamp="1455122053382">
-        <mark key="[" line="55" column="17" />
-        <mark key="]" line="43" column="16" />
-        <mark key="^" line="43" column="16" />
-        <mark key="." line="43" column="16" />
+      <file name="$USER_HOME$/dev/salix/cbc-cms/src/main/webapp/config/webpack.js" timestamp="1455199033124">
+        <mark key="a" line="53" column="15" />
+        <mark key="'" line="7" column="4" />
+        <mark key="[" line="60" column="40" />
+        <mark key="]" line="60" column="40" />
+        <mark key="^" line="7" column="8" />
+        <mark key="." line="60" column="40" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/TestRunner.scala" timestamp="1449684156568">
         <mark key="[" line="14" column="21" />
@@ -586,58 +588,70 @@
       <jump line="22" column="63" filename="$USER_HOME$/dev/sematnics-brand-checker/src/main/scala-2.11/com/willowtree/semantics/BrandDataReader.scala" />
       <jump line="51" column="76" filename="$USER_HOME$/dev/sematnics-brand-checker/src/main/scala-2.11/com/willowtree/semantics/BrandChecker.scala" />
       <jump line="17" column="37" filename="$USER_HOME$/dev/lidl-json-store/src/main/scala-2.11/Main.scala" />
+      <jump line="14" column="22" filename="$USER_HOME$/dev/salix/cbc-cms/src/main/webapp/config/webpack.js" />
+      <jump line="22" column="10" filename="$USER_HOME$/dev/salix/cbc-cms/src/main/webapp/config/webpack.js" />
+      <jump line="106" column="0" filename="$USER_HOME$/dev/salix/cbc-cms/src/main/webapp/config/webpack.js" />
+      <jump line="55" column="55" filename="$USER_HOME$/dev/salix/cbc-cms/src/main/webapp/config/webpack.js" />
+      <jump line="5" column="17" filename="$USER_HOME$/dev/salix/cbc-cms/src/main/webapp/config/webpack.js" />
+      <jump line="54" column="12" filename="$USER_HOME$/dev/salix/cbc-cms/src/main/webapp/config/webpack.js" />
+      <jump line="53" column="12" filename="$USER_HOME$/dev/salix/cbc-cms/src/main/webapp/config/webpack.js" />
+      <jump line="101" column="0" filename="$USER_HOME$/dev/salix/cbc-cms/src/main/webapp/config/webpack.js" />
+      <jump line="4" column="20" filename="$USER_HOME$/dev/salix/cbc-cms/src/main/webapp/config/webpack.js" />
+      <jump line="27" column="12" filename="$USER_HOME$/dev/salix/cbc-cms/src/main/webapp/config/webpack.js" />
+      <jump line="58" column="16" filename="$USER_HOME$/dev/salix/cbc-cms/src/main/webapp/config/webpack.js" />
+      <jump line="7" column="4" filename="$USER_HOME$/dev/salix/cbc-cms/src/main/webapp/config/webpack.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>projectDir, 'node_modules'</text>
       </register>
       <register name="-" type="4">
-        <text>./</text>
+        <text>projectDir, 'node_modules'</text>
       </register>
       <register name="/" type="4">
-        <text>rou</text>
+        <text>path\.</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25kV2l0aE1lZGlhVHlwZShNZWRpYVR5cGVzLmBhcHBsaWNhdGlvbi9qc29uYCkgewo=</text>
+      <register name="0" type="4">
+        <text>nodeModules</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>projectDir, 'node_modules'</text>
       </register>
-      <register name="2" type="4">
-        <text>./</text>
+      <register name="2" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2codGVzdCkK</text>
       </register>
       <register name="3" type="4">
-        <text>actions</text>
+        <text>test</text>
       </register>
       <register name="4" type="4">
-        <text>actions</text>
+        <text>require('path').</text>
       </register>
-      <register name="5" type="4">
-        <text>actions</text>
+      <register name="5" type="2">
+        <text encoding="base64">dmFyIHByb2plY3REaXIgPSByZXF1aXJlKCdwYXRoJykucmVzb2x2ZShfX2Rpcm5hbWUsICcuLicpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICcvVXNlcnMvdHlsZXJyb21lby9kZXYvc2FsaXgvY2JjLWNtcy9ub2RlX21vZHVsZXMnCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICBJIG5lZWQgdG8gYmUgYSBsaXR0bGUgcXVpZXRlciBpd2ggbWUgdGlwd2kK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICcvVXNlcnMvdHlsZXJyb21lby9kZXYvc2FsaXgvY2JjLWNtcy9ub2RlX21vZHVsZXMnCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHBsZWF6YXNlIGFkdmlzZQo=</text>
+      <register name="8" type="4">
+        <text>$USER_HOME$/dev/salix/cbc-cms/</text>
       </register>
-      <register name="9" type="4">
-        <text>build</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>rou</last-search>
+      <last-search>path\.</last-search>
       <last-offset />
-      <last-pattern>rou</last-pattern>
+      <last-pattern>path\.</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -645,6 +659,9 @@
       <history-search>
         <entry>ta</entry>
         <entry>rou</entry>
+        <entry>path(</entry>
+        <entry>path.</entry>
+        <entry>path\.</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -673,6 +690,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
