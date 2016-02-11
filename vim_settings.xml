@@ -218,6 +218,12 @@
         <mark key="." line="10" column="96" />
         <mark key="^" line="10" column="96" />
       </file>
+      <file name="$USER_HOME$/dev/salix/cbc-cms/project/plugins.sbt" timestamp="1455202767748">
+        <mark key="[" line="6" column="61" />
+        <mark key="]" line="8" column="56" />
+        <mark key="^" line="8" column="56" />
+        <mark key="." line="8" column="56" />
+      </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/model/user/ChangeUsernameResponse.scala" timestamp="1448388203401">
         <mark key="[" line="10" column="91" />
         <mark key="]" line="12" column="33" />
