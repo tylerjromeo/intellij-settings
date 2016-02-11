@@ -219,12 +219,12 @@
         <mark key="^" line="10" column="4" />
         <mark key="." line="10" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/salix/cbc-cms/gulpfile.js" timestamp="1455218947713">
+      <file name="$USER_HOME$/dev/salix/cbc-cms/gulpfile.js" timestamp="1455220291106">
         <mark key="'" line="67" column="3" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="29" />
-        <mark key="." line="67" column="0" />
-        <mark key="^" line="66" column="28" />
+        <mark key="[" line="131" column="3" />
+        <mark key="]" line="131" column="6" />
+        <mark key="." line="131" column="6" />
+        <mark key="^" line="131" column="6" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/test/scala/com/willowtreeapps/burst/UserServiceSpec.scala" timestamp="1451939437792">
         <mark key="[" line="225" column="17" />
@@ -237,13 +237,6 @@
         <mark key="]" line="10" column="102" />
         <mark key="." line="10" column="102" />
         <mark key="^" line="10" column="79" />
-      </file>
-      <file name="$USER_HOME$/dev/sematnics-brand-checker/src/main/scala-2.11/com/willowtree/semantics/BrandDataReader.scala" timestamp="1454423584654">
-        <mark key="'" line="22" column="63" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="36" column="129" />
-        <mark key="." line="36" column="129" />
-        <mark key="^" line="36" column="129" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/model/incentive/IncentiveDetails.scala" timestamp="1449583057038">
         <mark key="[" line="10" column="28" />
@@ -306,11 +299,6 @@
         <mark key="]" line="8" column="65" />
         <mark key="^" line="8" column="65" />
         <mark key="." line="8" column="65" />
-      </file>
-      <file name="$USER_HOME$/dev/lidl-json-store/run.sh" timestamp="1455040575182">
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/test/scala/com/willowtreeapps/burst/ProductServiceSpec.scala" timestamp="1451922427651">
         <mark key="[" line="122" column="11" />
@@ -409,11 +397,6 @@
         <mark key="^" line="23" column="70" />
         <mark key="." line="23" column="70" />
       </file>
-      <file name="$USER_HOME$/dev/test-project-gatling/build.sbt" timestamp="1450290374775">
-        <mark key="]" line="6" column="85" />
-        <mark key="^" line="6" column="85" />
-        <mark key="." line="6" column="85" />
-      </file>
       <file name="$USER_HOME$/dev/scala-todo-webservice/src/main/scala/com/example/jdbc/TaskDAO.scala" timestamp="1446123304724">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="0" />
@@ -438,21 +421,17 @@
         <mark key="^" line="8" column="66" />
         <mark key="." line="8" column="66" />
       </file>
-      <file name="$USER_HOME$/dev/salix/cbc-cms/src/main/webapp/build/index.html" timestamp="1455119778123">
-        <mark key="[" line="21" column="83" />
+      <file name="$USER_HOME$/dev/salix/cbc-cms/src/main/webapp/build/index.html" timestamp="1455221135587">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/model/login/LoginResponse.scala" timestamp="1448328440173">
         <mark key="[" line="11" column="49" />
         <mark key="]" line="11" column="60" />
         <mark key="." line="11" column="60" />
         <mark key="^" line="11" column="60" />
-      </file>
-      <file name="$USER_HOME$/dev/sematnics-brand-checker/src/main/scala-2.11/com/willowtree/semantics/BrandChecker.scala" timestamp="1454428062350">
-        <mark key="'" line="50" column="76" />
-        <mark key="[" line="57" column="57" />
-        <mark key="]" line="57" column="60" />
-        <mark key="." line="57" column="60" />
-        <mark key="^" line="57" column="60" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/web/TestService.scala" timestamp="1448978335113">
         <mark key="[" line="55" column="31" />
@@ -503,6 +482,7 @@
         <mark key="^" line="10" column="120" />
         <mark key="." line="10" column="120" />
       </file>
+      <file name="$USER_HOME$/dev/salix/cbc-cms/project/build.scala" timestamp="1455220975407" />
       <file name="$USER_HOME$/dev/burst-acceptance-tests/project/plugins.sbt" timestamp="1450290280894">
         <mark key="[" line="2" column="56" />
       </file>
@@ -571,7 +551,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgd2FyID0gcmVxdWlyZSgnZ3VscC13YXInKTsK</text>
+        <text encoding="base64">ICAgY2FsbGJhY2soKTsK</text>
       </register>
       <register name="-" type="4">
         <text>myApp.zip</text>
@@ -582,35 +562,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgd2FyID0gcmVxdWlyZSgnZ3VscC13YXInKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Cmd1bHAudGFzaygnd2FyJywgZnVuY3Rpb24gKCkgewogICAgZ3VscC5zcmMoJ3NyYy9tYWluL3dlYmFwcC9idWlsZC8qKi8qJykKICAgICAgICAucGlwZSh3YXIoewogICAgICAgICAgICB3ZWxjb21lOiAnaW5kZXguaHRtbCcsCiAgICAgICAgICAgIGRpc3BsYXlOYW1lOiAnc2FsaXggY21zJywKICAgICAgICB9KSkKICAgICAgICAucGlwZSh6aXAoJ3NhbGl4Y21zLndhcicpKQogICAgICAgIC5waXBlKGd1bHAuZGVzdCgiLi9zcmMvbWFpbi93ZWJhcHAiKSk7Cgp9KTsK</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgY2FsbGJhY2soKTsK</text>
       </register>
-      <register name="2" type="4">
-        <text>myApp.zip</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgY2FsbGJhY2soKTsK</text>
       </register>
       <register name="3" type="4">
-        <text>[&quot;*.js&quot;, &quot;*.md&quot;, &quot;test/*.js&quot;]</text>
+        <text encoding="base64">Cmd1bHAudGFzaygnd2FyJywgZnVuY3Rpb24gKCkgewogICAgZ3VscC5zcmMoJ3NyYy9tYWluL3dlYmFwcC9idWlsZC8qKi8qJykKICAgICAgICAucGlwZSh3YXIoewogICAgICAgICAgICB3ZWxjb21lOiAnaW5kZXguaHRtbCcsCiAgICAgICAgICAgIGRpc3BsYXlOYW1lOiAnc2FsaXggY21zJywKICAgICAgICB9KSkKICAgICAgICAucGlwZSh6aXAoJ3NhbGl4Y21zLndhcicpKQogICAgICAgIC5waXBlKGd1bHAuZGVzdCgiLi9zcmMvbWFpbi93ZWJhcHAiKSk7Cgp9KTsK</text>
       </register>
       <register name="4" type="4">
         <text>myApp.zip</text>
       </register>
       <register name="5" type="4">
-        <text>Grunt WAR</text>
+        <text>[&quot;*.js&quot;, &quot;*.md&quot;, &quot;test/*.js&quot;]</text>
       </register>
       <register name="6" type="4">
-        <text>project-name</text>
+        <text>myApp.zip</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="4">
+        <text>Grunt WAR</text>
+      </register>
+      <register name="8" type="4">
         <text>project-name</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF0aDogcHJvamVjdERpciArICcvYnVpbGQvanMnLAo=</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">IHByb2plY3REaXIgKw==</text>
+        <text>project-name</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
