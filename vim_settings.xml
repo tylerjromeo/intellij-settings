@@ -382,11 +382,11 @@
         <mark key="." line="22" column="85" />
         <mark key="^" line="22" column="85" />
       </file>
-      <file name="$USER_HOME$/dev/salix/cbc-cms/src/main/js/config/webpack.js" timestamp="1455206064255">
-        <mark key="[" line="29" column="17" />
-        <mark key="]" line="29" column="17" />
-        <mark key="." line="29" column="17" />
-        <mark key="^" line="29" column="33" />
+      <file name="$USER_HOME$/dev/salix/cbc-cms/src/main/js/config/webpack.js" timestamp="1455216259491">
+        <mark key="[" line="82" column="19" />
+        <mark key="]" line="82" column="19" />
+        <mark key="." line="82" column="19" />
+        <mark key="^" line="82" column="19" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/model/burst/BurstProductResponse.scala" timestamp="1449687021453">
         <mark key="[" line="8" column="32" />
@@ -558,8 +558,8 @@
       <jump line="14" column="0" filename="$USER_HOME$/dev/salix/cbc-cms/src/main/webapp/config/webpack.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHByb2plY3REaXIgKw==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGF0aDogcHJvamVjdERpciArICcvYnVpbGQvanMnLAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IHByb2plY3REaXIgKw==</text>
@@ -567,35 +567,35 @@
       <register name="/" type="4">
         <text>path\.</text>
       </register>
-      <register name="0" type="4">
-        <text>/src/main/webapp/build/js/</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGF0aDogJy9zcmMvbWFpbi93ZWJhcHAvYnVpbGQvanMvJywK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IHByb2plY3REaXIgKw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGF0aDogcHJvamVjdERpciArICcvYnVpbGQvanMnLAo=</text>
       </register>
       <register name="2" type="4">
-        <text>/</text>
+        <text encoding="base64">IHByb2plY3REaXIgKw==</text>
       </register>
       <register name="3" type="4">
-        <text>'</text>
+        <text>/</text>
       </register>
       <register name="4" type="4">
-        <text>build/js</text>
-      </register>
-      <register name="5" type="4">
         <text>'</text>
       </register>
+      <register name="5" type="4">
+        <text>build/js</text>
+      </register>
       <register name="6" type="4">
-        <text>btbuild</text>
+        <text>'</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="4">
-        <text>/</text>
+        <text>btbuild</text>
       </register>
       <register name="8" type="4">
-        <text>webapp</text>
+        <text>/</text>
       </register>
       <register name="9" type="4">
         <text>webapp</text>
