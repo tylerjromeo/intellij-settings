@@ -78,6 +78,12 @@
         <mark key="^" line="14" column="1" />
         <mark key="." line="14" column="1" />
       </file>
+      <file name="$USER_HOME$/dev/salix/cbc-cms/src/main/scala/com/salixvideo/cms/Models/AttributeJson.scala" timestamp="1455302446552">
+        <mark key="[" line="33" column="17" />
+        <mark key="]" line="32" column="6" />
+        <mark key="^" line="32" column="6" />
+        <mark key="." line="32" column="6" />
+      </file>
       <file name="/RegExp Fragment (test.java:194).regexp" timestamp="1449160352895">
         <mark key="[" line="0" column="0" />
       </file>
@@ -311,6 +317,11 @@
         <mark key="]" line="122" column="18" />
         <mark key="^" line="122" column="18" />
         <mark key="." line="122" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/salix/cbc-cms/src/main/scala/com/salixvideo/cms/Models/LinkAttributeJson.scala" timestamp="1455302297274">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="11" />
+        <mark key="." line="8" column="11" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/TestRunner.java" timestamp="1444740914102">
         <mark key="[" line="12" column="0" />
@@ -567,10 +578,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/about</text>
+        <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>/about</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>Help</text>
@@ -579,22 +590,22 @@
         <text>Comic-Con HQ is a premium streaming...</text>
       </register>
       <register name="1" type="4">
-        <text>/about</text>
+        <text>k</text>
       </register>
       <register name="2" type="4">
-        <text>About Us</text>
+        <text>n</text>
       </register>
       <register name="3" type="4">
-        <text>main_footer</text>
+        <text>i</text>
       </register>
       <register name="4" type="4">
-        <text>/about</text>
+        <text>L</text>
       </register>
       <register name="5" type="4">
-        <text>, {&quot;label&quot;:&quot;FAQs&quot;, &quot;content&quot;:&quot;/faq&quot;}, {&quot;label&quot;:&quot;Customer Service&quot;, &quot;content&quot;:&quot;/customerservice&quot;}, {&quot;label&quot;:&quot;How to Watch&quot;, &quot;content&quot;:&quot;/howtowatch&quot;}, {&quot;label&quot;:&quot;Terms of Use&quot;, &quot;content&quot;:&quot;/termsofuse&quot;}, {&quot;label&quot;:&quot;Privacy Policy&quot;, &quot;content&quot;:&quot;/privacypolicy&quot;}, {&quot;label&quot;:&quot;Contact&quot;, &quot;content&quot;:&quot;/contact&quot;}</text>
+        <text>k</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">U2VydmljZXMgJiBJbmZvcm1hdGlvbg==</text>
+        <text>n</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -638,13 +649,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>8dc38c0d-e9ed-484c-a573-45289c6d4f77</text>
+        <text>i</text>
       </register>
       <register name="8" type="4">
-        <text>main_footer</text>
+        <text>L</text>
       </register>
       <register name="9" type="4">
-        <text>footer</text>
+        <text>/about</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
