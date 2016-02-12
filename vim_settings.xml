@@ -60,6 +60,12 @@
         <mark key="^" line="0" column="55" />
         <mark key="." line="0" column="55" />
       </file>
+      <file name="$USER_HOME$/dev/salix/cbc-cms/README.markdown" timestamp="1455223288214">
+        <mark key="[" line="35" column="14" />
+        <mark key="]" line="35" column="21" />
+        <mark key="^" line="35" column="21" />
+        <mark key="." line="35" column="21" />
+      </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/model/Test.scala" timestamp="1450201218164">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="14" column="1" />
@@ -186,9 +192,10 @@
         <mark key="." line="10" column="96" />
         <mark key="^" line="10" column="96" />
       </file>
-      <file name="$USER_HOME$/dev/salix/cbc-cms/project/plugins.sbt" timestamp="1455202767748">
+      <file name="$USER_HOME$/dev/salix/cbc-cms/project/plugins.sbt" timestamp="1455222892360">
         <mark key="[" line="6" column="61" />
       </file>
+      <file name="$USER_HOME$/dev/salix/cbc-cms/src/main/scala/spray/routing/session/Codecs.scala" timestamp="1455222290886" />
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/model/user/ChangeUsernameResponse.scala" timestamp="1448388203401">
         <mark key="[" line="10" column="91" />
         <mark key="]" line="12" column="33" />
@@ -218,13 +225,6 @@
         <mark key="]" line="10" column="4" />
         <mark key="^" line="10" column="4" />
         <mark key="." line="10" column="4" />
-      </file>
-      <file name="$USER_HOME$/dev/salix/cbc-cms/gulpfile.js" timestamp="1455220291106">
-        <mark key="'" line="67" column="3" />
-        <mark key="[" line="131" column="3" />
-        <mark key="]" line="131" column="6" />
-        <mark key="." line="131" column="6" />
-        <mark key="^" line="131" column="6" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/test/scala/com/willowtreeapps/burst/UserServiceSpec.scala" timestamp="1451939437792">
         <mark key="[" line="225" column="17" />
@@ -482,7 +482,7 @@
         <mark key="^" line="10" column="120" />
         <mark key="." line="10" column="120" />
       </file>
-      <file name="$USER_HOME$/dev/salix/cbc-cms/project/build.scala" timestamp="1455220975407" />
+      <file name="$USER_HOME$/dev/salix/cbc-cms/project/build.scala" timestamp="1455222962950" />
       <file name="$USER_HOME$/dev/burst-acceptance-tests/project/plugins.sbt" timestamp="1450290280894">
         <mark key="[" line="2" column="56" />
       </file>
