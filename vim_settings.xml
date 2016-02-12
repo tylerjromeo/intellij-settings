@@ -9,6 +9,12 @@
         <mark key="^" line="12" column="31" />
         <mark key="." line="12" column="30" />
       </file>
+      <file name="$USER_HOME$/dev/salix/cbc-cms/setupTool/src/main/resources/db/migration/V2_2__Add_Attribute_Types.sql" timestamp="1455301561971">
+        <mark key="[" line="2" column="46" />
+        <mark key="]" line="2" column="46" />
+        <mark key="^" line="2" column="46" />
+        <mark key="." line="2" column="46" />
+      </file>
       <file name="$USER_HOME$/dev/sematnics-brand-checker/build.sbt" timestamp="1454201142411">
         <mark key="[" line="10" column="52" />
         <mark key="]" line="10" column="58" />
