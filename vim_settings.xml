@@ -294,6 +294,12 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
+      <file name="$USER_HOME$/dev/salix/cbc-cms/src/main/scala/com/salixvideo/cms/jdbc/Tables.scala" timestamp="1455303715113">
+        <mark key="[" line="47" column="5" />
+        <mark key="]" line="47" column="6" />
+        <mark key="^" line="47" column="6" />
+        <mark key="." line="47" column="6" />
+      </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/hasJsonParsing.scala" timestamp="1444403581006">
         <mark key="[" line="10" column="6" />
         <mark key="]" line="10" column="7" />
@@ -510,6 +516,7 @@
       <file name="$USER_HOME$/dev/burst-acceptance-tests/project/plugins.sbt" timestamp="1450290280894">
         <mark key="[" line="2" column="56" />
       </file>
+      <file name="$USER_HOME$/dev/salix/cbc-cms/src/main/scala/com/salixvideo/cms/Utils/DBHelper.scala" timestamp="1455303518314" />
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/model/user/UserDetails.scala" timestamp="1448387439829">
         <mark key="[" line="25" column="39" />
         <mark key="]" line="25" column="65" />
