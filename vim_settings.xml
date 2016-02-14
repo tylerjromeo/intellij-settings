@@ -9,7 +9,6 @@
         <mark key="^" line="12" column="31" />
         <mark key="." line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/salix/cbc-cms/setupTool/src/main/resources/dev.application.conf" timestamp="1455304694954" />
       <file name="$USER_HOME$/dev/salix/cbc-cms/setupTool/src/main/resources/db/migration/V2_2__Add_Attribute_Types.sql" timestamp="1455305636425">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -233,7 +232,6 @@
       <file name="$USER_HOME$/dev/salix/cbc-cms/project/plugins.sbt" timestamp="1455222892360">
         <mark key="[" line="6" column="61" />
       </file>
-      <file name="$USER_HOME$/dev/salix/cbc-cms/src/main/scala/spray/routing/session/Codecs.scala" timestamp="1455222290886" />
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/model/user/ChangeUsernameResponse.scala" timestamp="1448388203401">
         <mark key="[" line="10" column="91" />
         <mark key="]" line="12" column="33" />
@@ -435,7 +433,6 @@
         <mark key="." line="22" column="85" />
         <mark key="^" line="22" column="85" />
       </file>
-      <file name="$USER_HOME$/dev/salix/cbc-cms/src/main/js/config/webpack.js" timestamp="1455219256259" />
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/model/burst/BurstProductResponse.scala" timestamp="1449687021453">
         <mark key="[" line="8" column="32" />
         <mark key="]" line="12" column="155" />
@@ -546,7 +543,6 @@
         <mark key="^" line="15" column="26" />
         <mark key="." line="15" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/salix/cbc-cms/src/main/webapp/build/js/main.js" timestamp="1455205130399" />
       <file name="$USER_HOME$/dev/salix/cbc-cms/src/main/webapp/index.html" timestamp="1455118269244">
         <mark key="[" line="20" column="23" />
         <mark key="]" line="20" column="24" />
@@ -573,7 +569,6 @@
       <file name="$USER_HOME$/dev/burst-acceptance-tests/project/plugins.sbt" timestamp="1450290280894">
         <mark key="[" line="2" column="56" />
       </file>
-      <file name="$USER_HOME$/dev/salix/cbc-cms/src/main/scala/com/salixvideo/cms/Utils/DBHelper.scala" timestamp="1455303518314" />
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/model/user/UserDetails.scala" timestamp="1448387439829">
         <mark key="[" line="25" column="39" />
         <mark key="]" line="25" column="65" />
@@ -586,7 +581,6 @@
         <mark key="." line="0" column="46" />
         <mark key="^" line="0" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/salix/cbc-cms/package.json" timestamp="1455121659307" />
       <file name="/fragment.java" timestamp="1450187717403">
         <mark key="[" line="0" column="0" />
       </file>
