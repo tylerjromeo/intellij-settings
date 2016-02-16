@@ -519,11 +519,10 @@
         <mark key="^" line="175" column="19" />
         <mark key="." line="175" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/salix/cbc-cms/setupTool/src/main/resources/db/migration/V2_3__Additional_lionsgate_data.sql" timestamp="1455305685991">
-        <mark key="[" line="0" column="63" />
-        <mark key="]" line="0" column="70" />
-        <mark key="." line="0" column="70" />
-        <mark key="^" line="0" column="70" />
+      <file name="$USER_HOME$/dev/salix/cbc-cms/setupTool/src/main/resources/db/migration/V2_3__Additional_lionsgate_data.sql" timestamp="1455649451858">
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="7" column="1" />
+        <mark key="." line="7" column="1" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/model/burst/Burst.scala" timestamp="1449495750736">
         <mark key="[" line="27" column="21" />
@@ -636,34 +635,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>type</text>
+        <text>,(
+  (SELECT id FROM &quot;section&quot; WHERE section_slug = 'how_to_watch'),
+  'About Comic-Con',
+  'Comic-Con HQ is a premium streaming footage destination that offers hours of the best of the best exclusive films, shows, and archived Comic-Con footage. Get unlimited and 24/7 access to all Comic-Con HQ for $x.xx / month or $x.xx / year',
+  null,
+  'text'
+)</text>
       </register>
       <register name="-" type="4">
-        <text>type</text>
+        <text>about_content</text>
       </register>
       <register name="/" type="4">
         <text>Help</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CiAgICAvKiogRGF0YWJhc2UgY29sdW1uIGRhdGVfY3JlYXRlZCBTcWxUeXBlKHRpbWVzdGFtcCkgKi8KICAgIHZhbCBkYXRlQ3JlYXRlZDogUmVwW09wdGlvbltqYXZhLnNxbC5UaW1lc3RhbXBdXSA9IGNvbHVtbltPcHRpb25bamF2YS5zcWwuVGltZXN0YW1wXV0oImRhdGVfY3JlYXRlZCIp</text>
+        <text>(
+  (SELECT id FROM &quot;section&quot; WHERE section_slug = 'about_content'),
+  'About Comic-Con',
+  'Comic-Con HQ is a premium streaming footage destination that offers hours of the best of the best exclusive films, shows, and archived Comic-Con footage. Get unlimited and 24/7 access to all Comic-Con HQ for $x.xx / month or $x.xx / year',
+  null,
+  'text'
+)</text>
       </register>
       <register name="1" type="4">
-        <text>type</text>
+        <text>,(
+  (SELECT id FROM &quot;section&quot; WHERE section_slug = 'how_to_watch'),
+  'About Comic-Con',
+  'Comic-Con HQ is a premium streaming footage destination that offers hours of the best of the best exclusive films, shows, and archived Comic-Con footage. Get unlimited and 24/7 access to all Comic-Con HQ for $x.xx / month or $x.xx / year',
+  null,
+  'text'
+)</text>
       </register>
       <register name="2" type="4">
-        <text>~/Desktop</text>
+        <text>about_content</text>
       </register>
       <register name="3" type="4">
-        <text>.</text>
+        <text>...</text>
       </register>
       <register name="4" type="4">
-        <text>t</text>
+        <text>type</text>
       </register>
       <register name="5" type="4">
-        <text>e</text>
+        <text>~/Desktop</text>
       </register>
       <register name="6" type="4">
-        <text>g</text>
+        <text>.</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -707,13 +724,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>k</text>
+        <text>t</text>
       </register>
       <register name="8" type="4">
-        <text>n</text>
+        <text>e</text>
       </register>
       <register name="9" type="4">
-        <text>i</text>
+        <text>g</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
