@@ -292,11 +292,11 @@
         <mark key="^" line="10" column="27" />
         <mark key="." line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/salix/cbc-cms/src/main/scala/com/salixvideo/cms/HttpServices/PublicFacingService.scala" timestamp="1455308178856">
-        <mark key="[" line="47" column="45" />
-        <mark key="]" line="47" column="85" />
-        <mark key="^" line="47" column="85" />
-        <mark key="." line="47" column="85" />
+      <file name="$USER_HOME$/dev/salix/cbc-cms/src/main/scala/com/salixvideo/cms/HttpServices/PublicFacingService.scala" timestamp="1455641410536">
+        <mark key="[" line="51" column="55" />
+        <mark key="]" line="51" column="77" />
+        <mark key="^" line="51" column="77" />
+        <mark key="." line="51" column="77" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/JsonUtil.scala" timestamp="1444401675635">
         <mark key="[" line="10" column="6" />
@@ -636,10 +636,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>~/Desktop</text>
+        <text>type</text>
       </register>
       <register name="-" type="4">
-        <text>~/Desktop</text>
+        <text>type</text>
       </register>
       <register name="/" type="4">
         <text>Help</text>
@@ -648,22 +648,22 @@
         <text encoding="base64">CiAgICAvKiogRGF0YWJhc2UgY29sdW1uIGRhdGVfY3JlYXRlZCBTcWxUeXBlKHRpbWVzdGFtcCkgKi8KICAgIHZhbCBkYXRlQ3JlYXRlZDogUmVwW09wdGlvbltqYXZhLnNxbC5UaW1lc3RhbXBdXSA9IGNvbHVtbltPcHRpb25bamF2YS5zcWwuVGltZXN0YW1wXV0oImRhdGVfY3JlYXRlZCIp</text>
       </register>
       <register name="1" type="4">
-        <text>~/Desktop</text>
+        <text>type</text>
       </register>
       <register name="2" type="4">
-        <text>.</text>
+        <text>~/Desktop</text>
       </register>
       <register name="3" type="4">
-        <text>t</text>
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text>e</text>
+        <text>t</text>
       </register>
       <register name="5" type="4">
-        <text>g</text>
+        <text>e</text>
       </register>
       <register name="6" type="4">
-        <text>k</text>
+        <text>g</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -707,13 +707,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>n</text>
+        <text>k</text>
       </register>
       <register name="8" type="4">
-        <text>i</text>
+        <text>n</text>
       </register>
       <register name="9" type="4">
-        <text>L</text>
+        <text>i</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
