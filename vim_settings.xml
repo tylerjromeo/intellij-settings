@@ -37,6 +37,12 @@
         <mark key="^" line="10" column="89" />
         <mark key="." line="10" column="89" />
       </file>
+      <file name="$USER_HOME$/dev/salix/cbc-cms/src/main/scala/com/salixvideo/cms/Models/SectionJson.scala" timestamp="1455651459924">
+        <mark key="[" line="36" column="62" />
+        <mark key="]" line="36" column="61" />
+        <mark key="^" line="36" column="61" />
+        <mark key="." line="36" column="61" />
+      </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/service/UserService.scala" timestamp="1451939339614">
         <mark key="[" line="38" column="221" />
         <mark key="]" line="38" column="251" />
@@ -279,20 +285,13 @@
         <mark key="." line="10" column="102" />
         <mark key="^" line="10" column="79" />
       </file>
-      <file name="$USER_HOME$/dev/sematnics-brand-checker/src/main/scala-2.11/com/willowtree/semantics/BrandDataReader.scala" timestamp="1454423584654">
-        <mark key="'" line="22" column="63" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="36" column="129" />
-        <mark key="." line="36" column="129" />
-        <mark key="^" line="36" column="129" />
-      </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/model/incentive/IncentiveDetails.scala" timestamp="1449583057038">
         <mark key="[" line="10" column="28" />
         <mark key="]" line="10" column="28" />
         <mark key="^" line="10" column="27" />
         <mark key="." line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/salix/cbc-cms/src/main/scala/com/salixvideo/cms/HttpServices/PublicFacingService.scala" timestamp="1455641410536">
+      <file name="$USER_HOME$/dev/salix/cbc-cms/src/main/scala/com/salixvideo/cms/HttpServices/PublicFacingService.scala" timestamp="1455651262694">
         <mark key="[" line="51" column="55" />
         <mark key="]" line="51" column="77" />
         <mark key="^" line="51" column="77" />
@@ -322,7 +321,7 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/salix/cbc-cms/src/main/scala/com/salixvideo/cms/jdbc/Tables.scala" timestamp="1455308007948">
+      <file name="$USER_HOME$/dev/salix/cbc-cms/src/main/scala/com/salixvideo/cms/jdbc/Tables.scala" timestamp="1455651468540">
         <mark key="[" line="44" column="177" />
         <mark key="]" line="44" column="177" />
         <mark key="." line="44" column="177" />
@@ -487,19 +486,12 @@
         <mark key="." line="11" column="60" />
         <mark key="^" line="11" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/sematnics-brand-checker/src/main/scala-2.11/com/willowtree/semantics/BrandChecker.scala" timestamp="1454428062350">
-        <mark key="'" line="50" column="76" />
-        <mark key="[" line="57" column="57" />
-        <mark key="]" line="57" column="60" />
-        <mark key="." line="57" column="60" />
-        <mark key="^" line="57" column="60" />
-      </file>
-      <file name="$USER_HOME$/dev/salix/cbc-cms/setupTool/src/main/resources/db/migration/V2_1__Initial_Data_lionsgate.sql" timestamp="1455305543290">
-        <mark key="'" line="65" column="16" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="^" line="29" column="6" />
-        <mark key="." line="76" column="0" />
+      <file name="$USER_HOME$/dev/salix/cbc-cms/setupTool/src/main/resources/db/migration/V2_1__Initial_Data_lionsgate.sql" timestamp="1455653046129">
+        <mark key="'" line="102" column="16" />
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="17" column="33" />
+        <mark key="." line="17" column="33" />
+        <mark key="^" line="17" column="33" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/web/TestService.scala" timestamp="1448978335113">
         <mark key="[" line="55" column="31" />
@@ -519,10 +511,8 @@
         <mark key="^" line="175" column="19" />
         <mark key="." line="175" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/salix/cbc-cms/setupTool/src/main/resources/db/migration/V2_3__Additional_lionsgate_data.sql" timestamp="1455649451858">
-        <mark key="[" line="7" column="1" />
+      <file name="$USER_HOME$/dev/salix/cbc-cms/setupTool/src/main/resources/db/migration/V2_3__Additional_lionsgate_data.sql" timestamp="1455652717308">
         <mark key="]" line="7" column="1" />
-        <mark key="." line="7" column="1" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/model/burst/Burst.scala" timestamp="1449495750736">
         <mark key="[" line="27" column="21" />
@@ -635,52 +625,34 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,(
-  (SELECT id FROM &quot;section&quot; WHERE section_slug = 'how_to_watch'),
-  'About Comic-Con',
-  'Comic-Con HQ is a premium streaming footage destination that offers hours of the best of the best exclusive films, shows, and archived Comic-Con footage. Get unlimited and 24/7 access to all Comic-Con HQ for $x.xx / month or $x.xx / year',
-  null,
-  'text'
-)</text>
+        <text>Terms of Use</text>
       </register>
       <register name="-" type="4">
-        <text>about_content</text>
+        <text>Terms of Use</text>
       </register>
       <register name="/" type="4">
         <text>Help</text>
       </register>
-      <register name="0" type="4">
-        <text>(
-  (SELECT id FROM &quot;section&quot; WHERE section_slug = 'about_content'),
-  'About Comic-Con',
-  'Comic-Con HQ is a premium streaming footage destination that offers hours of the best of the best exclusive films, shows, and archived Comic-Con footage. Get unlimited and 24/7 access to all Comic-Con HQ for $x.xx / month or $x.xx / year',
-  null,
-  'text'
-)</text>
+      <register name="0" type="2">
+        <text encoding="base64">KCd0ZXJtc19vZl91c2UnLCAnVGVybXMgb2YgVXNlJyksCg==</text>
       </register>
       <register name="1" type="4">
-        <text>,(
-  (SELECT id FROM &quot;section&quot; WHERE section_slug = 'how_to_watch'),
-  'About Comic-Con',
-  'Comic-Con HQ is a premium streaming footage destination that offers hours of the best of the best exclusive films, shows, and archived Comic-Con footage. Get unlimited and 24/7 access to all Comic-Con HQ for $x.xx / month or $x.xx / year',
-  null,
-  'text'
-)</text>
+        <text>Terms of Use</text>
       </register>
       <register name="2" type="4">
-        <text>about_content</text>
+        <text>terms_of_use</text>
       </register>
       <register name="3" type="4">
-        <text>...</text>
+        <text>How To Watch</text>
       </register>
       <register name="4" type="4">
-        <text>type</text>
+        <text>how_to_watch</text>
       </register>
       <register name="5" type="4">
-        <text>~/Desktop</text>
+        <text>Faqs</text>
       </register>
       <register name="6" type="4">
-        <text>.</text>
+        <text>faq</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -724,13 +696,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>t</text>
+        <text>Faqs</text>
       </register>
       <register name="8" type="4">
-        <text>e</text>
+        <text>faq</text>
       </register>
       <register name="9" type="4">
-        <text>g</text>
+        <text encoding="base64">OwoKSU5TRVJUIElOVE8gcGFnZSAoc2x1ZywgIm5hbWUiKSBWQUxVRVMg</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
