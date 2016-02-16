@@ -186,6 +186,12 @@
         <mark key="^" line="21" column="47" />
         <mark key="." line="21" column="47" />
       </file>
+      <file name="$USER_HOME$/dev/salix/cbc-cms/src/main/scala/com/salixvideo/cms/Boot.scala" timestamp="1455658873017">
+        <mark key="[" line="22" column="45" />
+        <mark key="]" line="22" column="51" />
+        <mark key="." line="22" column="51" />
+        <mark key="^" line="22" column="51" />
+      </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/model/login/VerifyUsernameAndEmailRequest.scala" timestamp="1448373432810">
         <mark key="[" line="10" column="16" />
         <mark key="]" line="10" column="16" />
@@ -623,11 +629,11 @@
       <jump line="52" column="16" filename="$USER_HOME$/dev/salix/cbc-cms/setupTool/src/main/resources/db/migration/V2_1__Initial_Data_lionsgate.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRlbnQ6IFN0cmluZywK</text>
+      <register name="&quot;" type="4">
+        <text>localhost</text>
       </register>
       <register name="-" type="4">
-        <text>Terms of Use</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text>Help</text>
@@ -635,23 +641,23 @@
       <register name="0" type="2">
         <text encoding="base64">KCd0ZXJtc19vZl91c2UnLCAnVGVybXMgb2YgVXNlJyksCg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>localhost</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRlbnQ6IFN0cmluZywK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>Terms of Use</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>terms_of_use</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>How To Watch</text>
       </register>
-      <register name="5" type="4">
-        <text>how_to_watch</text>
-      </register>
       <register name="6" type="4">
-        <text>Faqs</text>
+        <text>how_to_watch</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -695,13 +701,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>faq</text>
-      </register>
-      <register name="8" type="4">
         <text>Faqs</text>
       </register>
-      <register name="9" type="4">
+      <register name="8" type="4">
         <text>faq</text>
+      </register>
+      <register name="9" type="4">
+        <text>Faqs</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
