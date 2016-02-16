@@ -99,11 +99,11 @@
         <mark key="^" line="14" column="1" />
         <mark key="." line="14" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/salix/cbc-cms/src/main/scala/com/salixvideo/cms/Models/AttributeJson.scala" timestamp="1455307824775">
-        <mark key="[" line="35" column="15" />
-        <mark key="]" line="35" column="15" />
-        <mark key="^" line="43" column="14" />
-        <mark key="." line="35" column="15" />
+      <file name="$USER_HOME$/dev/salix/cbc-cms/src/main/scala/com/salixvideo/cms/Models/AttributeJson.scala" timestamp="1455655654826">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="18" column="66" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="/RegExp Fragment (test.java:194).regexp" timestamp="1449160352895">
         <mark key="[" line="0" column="0" />
@@ -624,8 +624,8 @@
       <jump line="52" column="16" filename="$USER_HOME$/dev/salix/cbc-cms/setupTool/src/main/resources/db/migration/V2_1__Initial_Data_lionsgate.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Terms of Use</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRlbnQ6IFN0cmluZywK</text>
       </register>
       <register name="-" type="4">
         <text>Terms of Use</text>
@@ -636,23 +636,23 @@
       <register name="0" type="2">
         <text encoding="base64">KCd0ZXJtc19vZl91c2UnLCAnVGVybXMgb2YgVXNlJyksCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>Terms of Use</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRlbnQ6IFN0cmluZywK</text>
       </register>
       <register name="2" type="4">
-        <text>terms_of_use</text>
+        <text>Terms of Use</text>
       </register>
       <register name="3" type="4">
-        <text>How To Watch</text>
+        <text>terms_of_use</text>
       </register>
       <register name="4" type="4">
-        <text>how_to_watch</text>
+        <text>How To Watch</text>
       </register>
       <register name="5" type="4">
-        <text>Faqs</text>
+        <text>how_to_watch</text>
       </register>
       <register name="6" type="4">
-        <text>faq</text>
+        <text>Faqs</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -696,13 +696,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>Faqs</text>
-      </register>
-      <register name="8" type="4">
         <text>faq</text>
       </register>
+      <register name="8" type="4">
+        <text>Faqs</text>
+      </register>
       <register name="9" type="4">
-        <text encoding="base64">OwoKSU5TRVJUIElOVE8gcGFnZSAoc2x1ZywgIm5hbWUiKSBWQUxVRVMg</text>
+        <text>faq</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
