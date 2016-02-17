@@ -20,6 +20,9 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1455740921390">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/sematnics-brand-checker/build.sbt" timestamp="1454201142411">
         <mark key="[" line="10" column="52" />
         <mark key="]" line="10" column="58" />
@@ -518,6 +521,9 @@
       </file>
       <file name="$USER_HOME$/dev/salix/cbc-cms/setupTool/src/main/resources/db/migration/V2_3__Additional_lionsgate_data.sql" timestamp="1455652717308">
         <mark key="]" line="7" column="1" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1455740921368">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/model/burst/Burst.scala" timestamp="1449495750736">
         <mark key="[" line="27" column="21" />
