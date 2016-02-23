@@ -121,11 +121,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/lidl-json-store/src/main/scala-2.11/Datastore.scala" timestamp="1456258207224">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="57" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="44" column="97" />
+      <file name="$USER_HOME$/dev/lidl-json-store/src/main/scala-2.11/Datastore.scala" timestamp="1456258304911">
+        <mark key="[" line="26" column="78" />
+        <mark key="]" line="30" column="70" />
+        <mark key="." line="30" column="70" />
+        <mark key="^" line="30" column="70" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/BurstsService.scala" timestamp="1444836628844">
         <mark key="[" line="18" column="21" />
@@ -446,10 +446,11 @@
         <mark key="^" line="23" column="6" />
         <mark key="." line="23" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/lidl-json-store/src/main/scala-2.11/Main.scala" timestamp="1456258203748">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="57" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/dev/lidl-json-store/src/main/scala-2.11/Main.scala" timestamp="1456258914337">
+        <mark key="[" line="21" column="33" />
+        <mark key="]" line="21" column="54" />
+        <mark key="." line="21" column="54" />
+        <mark key="^" line="21" column="54" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/model/burst/BurstProductResponse.scala" timestamp="1449687021453">
         <mark key="[" line="8" column="32" />
@@ -542,11 +543,11 @@
         <mark key="^" line="28" column="67" />
         <mark key="." line="28" column="67" />
       </file>
-      <file name="$USER_HOME$/dev/lidl-json-store/src/main/resources/application.conf" timestamp="1456245772146">
+      <file name="$USER_HOME$/dev/lidl-json-store/src/main/resources/application.conf" timestamp="1456259157363">
         <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="122" />
-        <mark key="." line="1" column="122" />
-        <mark key="^" line="1" column="122" />
+        <mark key="]" line="1" column="13" />
+        <mark key="." line="1" column="13" />
+        <mark key="^" line="1" column="13" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/HasWebClient.scala" timestamp="1444419064069">
         <mark key="[" line="19" column="47" />
@@ -652,11 +653,11 @@
       <jump line="52" column="16" filename="$USER_HOME$/dev/salix/cbc-cms/setupTool/src/main/resources/db/migration/V2_1__Initial_Data_lionsgate.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuRXhlY3V0aW9uQ29udGV4dC5JbXBsaWNpdHMuZ2xvYmFsCg==</text>
+      <register name="&quot;" type="4">
+        <text>MemoryDataStore</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWFwKCh2OiBKc1ZhbHVlKSA9PiBjb21wbGV0ZShTdGF0dXNDb2Rlcy5PSywgdi5wcmV0dHlQcmludCkpLmdldE9yRWxzZShyb3V0ZTQwNCk=</text>
+        <text>MemoryDataStore</text>
       </register>
       <register name="/" type="4">
         <text>Help</text>
@@ -664,23 +665,23 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuRXhlY3V0aW9uQ29udGV4dC5JbXBsaWNpdHMuZ2xvYmFsCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuRXhlY3V0aW9uQ29udGV4dC5JbXBsaWNpdHMuZ2xvYmFsCg==</text>
+      <register name="1" type="4">
+        <text>MemoryDataStore</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvblN1Y2Nlc3MoZGF0YXN0b3JlLmdldChpZCkpIHsgdmFsdWUgPT4K</text>
+      <register name="2" type="4">
+        <text>Unit</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuRXhlY3V0aW9uQ29udGV4dC5JbXBsaWNpdHMuZ2xvYmFsCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBvblN1Y2Nlc3MoZGF0YXN0b3JlLmdldChpZCkpIHsgdmFsdWUgPT4K</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIG9uU3VjY2VzcyhkYXRhc3RvcmUuZ2V0KGlkKSkgeyB2YWx1ZSA9Pgo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">bWFwKCh2OiBKc1ZhbHVlKSA9PiBjb21wbGV0ZShTdGF0dXNDb2Rlcy5PSywgdi5wcmV0dHlQcmludCkpLmdldE9yRWxzZShyb3V0ZTQwNCk=</text>
-      </register>
-      <register name="5" type="4">
-        <text>route404</text>
-      </register>
       <register name="6" type="4">
-        <text encoding="base64">ZWxzZSA=</text>
+        <text encoding="base64">bWFwKCh2OiBKc1ZhbHVlKSA9PiBjb21wbGV0ZShTdGF0dXNDb2Rlcy5PSywgdi5wcmV0dHlQcmludCkpLmdldE9yRWxzZShyb3V0ZTQwNCk=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -724,13 +725,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ZGF0YXN0b3JlLmV4aXN0cyhpZCkpIA==</text>
+        <text>route404</text>
       </register>
       <register name="8" type="4">
-        <text>(</text>
+        <text encoding="base64">ZWxzZSA=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">aWYg</text>
+        <text encoding="base64">ZGF0YXN0b3JlLmV4aXN0cyhpZCkpIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -790,6 +791,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
