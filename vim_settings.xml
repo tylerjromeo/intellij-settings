@@ -121,11 +121,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/lidl-json-store/src/main/scala-2.11/Datastore.scala" timestamp="1456253487396">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="5" column="39" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/dev/lidl-json-store/src/main/scala-2.11/Datastore.scala" timestamp="1456258207224">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="57" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="44" column="97" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/BurstsService.scala" timestamp="1444836628844">
         <mark key="[" line="18" column="21" />
@@ -159,7 +159,7 @@
         <mark key="^" line="30" column="62" />
         <mark key="." line="30" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/lidl-json-store/build.sbt" timestamp="1456243720338">
+      <file name="$USER_HOME$/dev/lidl-json-store/build.sbt" timestamp="1456255997464">
         <mark key="[" line="16" column="64" />
         <mark key="]" line="16" column="64" />
         <mark key="." line="16" column="64" />
@@ -446,11 +446,10 @@
         <mark key="^" line="23" column="6" />
         <mark key="." line="23" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/lidl-json-store/src/main/scala-2.11/Main.scala" timestamp="1455048700326">
-        <mark key="[" line="22" column="44" />
-        <mark key="]" line="22" column="85" />
-        <mark key="." line="22" column="85" />
-        <mark key="^" line="22" column="85" />
+      <file name="$USER_HOME$/dev/lidl-json-store/src/main/scala-2.11/Main.scala" timestamp="1456258203748">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="57" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/model/burst/BurstProductResponse.scala" timestamp="1449687021453">
         <mark key="[" line="8" column="32" />
@@ -654,34 +653,34 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHNsaWNrLm1vZGVsLlRhYmxlCg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuRXhlY3V0aW9uQ29udGV4dC5JbXBsaWNpdHMuZ2xvYmFsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text encoding="base64">bWFwKCh2OiBKc1ZhbHVlKSA9PiBjb21wbGV0ZShTdGF0dXNDb2Rlcy5PSywgdi5wcmV0dHlQcmludCkpLmdldE9yRWxzZShyb3V0ZTQwNCk=</text>
       </register>
       <register name="/" type="4">
         <text>Help</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBpZCA9IGNvbHVtbltTdHJpbmddKCJpZCIsIE8uUHJpbWFyeUtleSkK</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuRXhlY3V0aW9uQ29udGV4dC5JbXBsaWNpdHMuZ2xvYmFsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHNsaWNrLm1vZGVsLlRhYmxlCg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuRXhlY3V0aW9uQ29udGV4dC5JbXBsaWNpdHMuZ2xvYmFsCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>id</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBvblN1Y2Nlc3MoZGF0YXN0b3JlLmdldChpZCkpIHsgdmFsdWUgPT4K</text>
       </register>
-      <register name="3" type="4">
-        <text>id</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIG9uU3VjY2VzcyhkYXRhc3RvcmUuZ2V0KGlkKSkgeyB2YWx1ZSA9Pgo=</text>
       </register>
       <register name="4" type="4">
-        <text>jdbc:postgresql:tylerromeo</text>
+        <text encoding="base64">bWFwKCh2OiBKc1ZhbHVlKSA9PiBjb21wbGV0ZShTdGF0dXNDb2Rlcy5PSywgdi5wcmV0dHlQcmludCkpLmdldE9yRWxzZShyb3V0ZTQwNCk=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>route404</text>
       </register>
       <register name="6" type="4">
-        <text>,</text>
+        <text encoding="base64">ZWxzZSA=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -725,13 +724,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ZGF0YXN0b3JlLmV4aXN0cyhpZCkpIA==</text>
       </register>
       <register name="8" type="4">
-        <text>localhost</text>
+        <text>(</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRlbnQ6IFN0cmluZywK</text>
+      <register name="9" type="4">
+        <text encoding="base64">aWYg</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
