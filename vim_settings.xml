@@ -543,11 +543,11 @@
         <mark key="^" line="28" column="67" />
         <mark key="." line="28" column="67" />
       </file>
-      <file name="$USER_HOME$/dev/lidl-json-store/src/main/resources/application.conf" timestamp="1456259157363">
+      <file name="$USER_HOME$/dev/lidl-json-store/src/main/resources/application.conf" timestamp="1456260259366">
         <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="13" />
-        <mark key="." line="1" column="13" />
-        <mark key="^" line="1" column="13" />
+        <mark key="]" line="1" column="107" />
+        <mark key="." line="1" column="107" />
+        <mark key="^" line="1" column="107" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/HasWebClient.scala" timestamp="1444419064069">
         <mark key="[" line="19" column="47" />
@@ -654,10 +654,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MemoryDataStore</text>
+        <text>jdbc:postgres://akuwhebhqmttat:iEGzw1BSI9AthhEPFDnUwpOfZd@ec2-54-225-223-40.compute-1.amazonaws.com:5432/d6o6pmcg6uuv5m</text>
       </register>
       <register name="-" type="4">
-        <text>MemoryDataStore</text>
+        <text>jdbc:postgres://akuwhebhqmttat:iEGzw1BSI9AthhEPFDnUwpOfZd@ec2-54-225-223-40.compute-1.amazonaws.com:5432/d6o6pmcg6uuv5m</text>
       </register>
       <register name="/" type="4">
         <text>Help</text>
@@ -666,22 +666,22 @@
         <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuRXhlY3V0aW9uQ29udGV4dC5JbXBsaWNpdHMuZ2xvYmFsCg==</text>
       </register>
       <register name="1" type="4">
-        <text>MemoryDataStore</text>
+        <text>jdbc:postgres://akuwhebhqmttat:iEGzw1BSI9AthhEPFDnUwpOfZd@ec2-54-225-223-40.compute-1.amazonaws.com:5432/d6o6pmcg6uuv5m</text>
       </register>
       <register name="2" type="4">
+        <text>MemoryDataStore</text>
+      </register>
+      <register name="3" type="4">
         <text>Unit</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuRXhlY3V0aW9uQ29udGV4dC5JbXBsaWNpdHMuZ2xvYmFsCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBvblN1Y2Nlc3MoZGF0YXN0b3JlLmdldChpZCkpIHsgdmFsdWUgPT4K</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIG9uU3VjY2VzcyhkYXRhc3RvcmUuZ2V0KGlkKSkgeyB2YWx1ZSA9Pgo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">bWFwKCh2OiBKc1ZhbHVlKSA9PiBjb21wbGV0ZShTdGF0dXNDb2Rlcy5PSywgdi5wcmV0dHlQcmludCkpLmdldE9yRWxzZShyb3V0ZTQwNCk=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -725,13 +725,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>route404</text>
+        <text encoding="base64">bWFwKCh2OiBKc1ZhbHVlKSA9PiBjb21wbGV0ZShTdGF0dXNDb2Rlcy5PSywgdi5wcmV0dHlQcmludCkpLmdldE9yRWxzZShyb3V0ZTQwNCk=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ZWxzZSA=</text>
+        <text>route404</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ZGF0YXN0b3JlLmV4aXN0cyhpZCkpIA==</text>
+        <text encoding="base64">ZWxzZSA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
