@@ -121,11 +121,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/lidl-json-store/src/main/scala-2.11/Datastore.scala" timestamp="1456245419058">
-        <mark key="[" line="25" column="1" />
-        <mark key="]" line="28" column="1" />
-        <mark key="^" line="28" column="1" />
-        <mark key="." line="28" column="1" />
+      <file name="$USER_HOME$/dev/lidl-json-store/src/main/scala-2.11/Datastore.scala" timestamp="1456253487396">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="5" column="39" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/BurstsService.scala" timestamp="1444836628844">
         <mark key="[" line="18" column="21" />
@@ -653,35 +653,35 @@
       <jump line="52" column="16" filename="$USER_HOME$/dev/salix/cbc-cms/setupTool/src/main/resources/db/migration/V2_1__Initial_Data_lionsgate.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>jdbc:postgresql:tylerromeo</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHNsaWNrLm1vZGVsLlRhYmxlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>jdbc:postgresql:tylerromeo</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text>Help</text>
       </register>
-      <register name="0" type="4">
-        <text>libraryDependencies +=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlZiBpZCA9IGNvbHVtbltTdHJpbmddKCJpZCIsIE8uUHJpbWFyeUtleSkK</text>
       </register>
-      <register name="1" type="4">
-        <text>jdbc:postgresql:tylerromeo</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IHNsaWNrLm1vZGVsLlRhYmxlCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>id</text>
       </register>
       <register name="3" type="4">
-        <text>,</text>
+        <text>id</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>jdbc:postgresql:tylerromeo</text>
       </register>
-      <register name="5" type="4">
-        <text>localhost</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRlbnQ6IFN0cmluZywK</text>
+      <register name="6" type="4">
+        <text>,</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -725,13 +725,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>Terms of Use</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>terms_of_use</text>
+        <text>localhost</text>
       </register>
-      <register name="9" type="4">
-        <text>How To Watch</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRlbnQ6IFN0cmluZywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
