@@ -121,11 +121,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/lidl-json-store/src/main/scala-2.11/Datastore.scala" timestamp="1456258304911">
-        <mark key="[" line="26" column="78" />
-        <mark key="]" line="30" column="70" />
-        <mark key="." line="30" column="70" />
-        <mark key="^" line="30" column="70" />
+      <file name="$USER_HOME$/dev/lidl-json-store/src/main/scala-2.11/Datastore.scala" timestamp="1456261954606">
+        <mark key="[" line="49" column="42" />
+        <mark key="]" line="49" column="42" />
+        <mark key="." line="49" column="42" />
+        <mark key="^" line="49" column="42" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/BurstsService.scala" timestamp="1444836628844">
         <mark key="[" line="18" column="21" />
@@ -446,11 +446,11 @@
         <mark key="^" line="23" column="6" />
         <mark key="." line="23" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/lidl-json-store/src/main/scala-2.11/Main.scala" timestamp="1456258914337">
-        <mark key="[" line="21" column="33" />
-        <mark key="]" line="21" column="54" />
-        <mark key="." line="21" column="54" />
-        <mark key="^" line="21" column="54" />
+      <file name="$USER_HOME$/dev/lidl-json-store/src/main/scala-2.11/Main.scala" timestamp="1456261287415">
+        <mark key="[" line="36" column="50" />
+        <mark key="]" line="36" column="54" />
+        <mark key="." line="36" column="54" />
+        <mark key="^" line="36" column="54" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/model/burst/BurstProductResponse.scala" timestamp="1449687021453">
         <mark key="[" line="8" column="32" />
@@ -543,11 +543,11 @@
         <mark key="^" line="28" column="67" />
         <mark key="." line="28" column="67" />
       </file>
-      <file name="$USER_HOME$/dev/lidl-json-store/src/main/resources/application.conf" timestamp="1456260259366">
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="107" />
-        <mark key="." line="1" column="107" />
-        <mark key="^" line="1" column="107" />
+      <file name="$USER_HOME$/dev/lidl-json-store/src/main/resources/application.conf" timestamp="1456262549827">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/HasWebClient.scala" timestamp="1444419064069">
         <mark key="[" line="19" column="47" />
@@ -654,10 +654,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>jdbc:postgres://akuwhebhqmttat:iEGzw1BSI9AthhEPFDnUwpOfZd@ec2-54-225-223-40.compute-1.amazonaws.com:5432/d6o6pmcg6uuv5m</text>
+        <text>, O.PrimaryKey</text>
       </register>
       <register name="-" type="4">
-        <text>jdbc:postgres://akuwhebhqmttat:iEGzw1BSI9AthhEPFDnUwpOfZd@ec2-54-225-223-40.compute-1.amazonaws.com:5432/d6o6pmcg6uuv5m</text>
+        <text>, O.PrimaryKey</text>
       </register>
       <register name="/" type="4">
         <text>Help</text>
@@ -666,22 +666,22 @@
         <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuRXhlY3V0aW9uQ29udGV4dC5JbXBsaWNpdHMuZ2xvYmFsCg==</text>
       </register>
       <register name="1" type="4">
-        <text>jdbc:postgres://akuwhebhqmttat:iEGzw1BSI9AthhEPFDnUwpOfZd@ec2-54-225-223-40.compute-1.amazonaws.com:5432/d6o6pmcg6uuv5m</text>
+        <text>, O.PrimaryKey</text>
       </register>
-      <register name="2" type="4">
-        <text>MemoryDataStore</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>Unit</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBjb21wbGV0ZShTdGF0dXNDb2Rlcy5DcmVhdGVkKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuRXhlY3V0aW9uQ29udGV4dC5JbXBsaWNpdHMuZ2xvYmFsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb21wbGV0ZShTdGF0dXNDb2Rlcy5DcmVhdGVkKQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvblN1Y2Nlc3MoZGF0YXN0b3JlLmdldChpZCkpIHsgdmFsdWUgPT4K</text>
+      <register name="5" type="4">
+        <text>jdbc:postgres://akuwhebhqmttat:iEGzw1BSI9AthhEPFDnUwpOfZd@ec2-54-225-223-40.compute-1.amazonaws.com:5432/d6o6pmcg6uuv5m</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9uU3VjY2VzcyhkYXRhc3RvcmUuZ2V0KGlkKSkgeyB2YWx1ZSA9Pgo=</text>
+      <register name="6" type="4">
+        <text>MemoryDataStore</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -725,13 +725,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">bWFwKCh2OiBKc1ZhbHVlKSA9PiBjb21wbGV0ZShTdGF0dXNDb2Rlcy5PSywgdi5wcmV0dHlQcmludCkpLmdldE9yRWxzZShyb3V0ZTQwNCk=</text>
+        <text>Unit</text>
       </register>
-      <register name="8" type="4">
-        <text>route404</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuRXhlY3V0aW9uQ29udGV4dC5JbXBsaWNpdHMuZ2xvYmFsCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZWxzZSA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBvblN1Y2Nlc3MoZGF0YXN0b3JlLmdldChpZCkpIHsgdmFsdWUgPT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -762,6 +762,7 @@
         <entry>/rou</entry>
         <entry>wq</entry>
         <entry>s/war/zip/g</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
