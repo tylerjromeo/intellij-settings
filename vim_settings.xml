@@ -153,11 +153,11 @@
         <mark key="^" line="30" column="62" />
         <mark key="." line="30" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/lidl-json-store/build.sbt" timestamp="1455034852971">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="30" />
-        <mark key="." line="8" column="30" />
-        <mark key="^" line="8" column="30" />
+      <file name="$USER_HOME$/dev/lidl-json-store/build.sbt" timestamp="1456243720338">
+        <mark key="[" line="16" column="64" />
+        <mark key="]" line="16" column="64" />
+        <mark key="." line="16" column="64" />
+        <mark key="^" line="17" column="21" />
       </file>
       <file name="$USER_HOME$/dev/loveScala/src/main/scala-2.11/org/romeo/loveletter/game/Engine.scala" timestamp="1456193295110">
         <mark key="[" line="286" column="18" />
@@ -642,34 +642,34 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>localhost</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>Help</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">KCd0ZXJtc19vZl91c2UnLCAnVGVybXMgb2YgVXNlJyksCg==</text>
+      <register name="0" type="4">
+        <text>libraryDependencies +=</text>
       </register>
       <register name="1" type="4">
-        <text>localhost</text>
+        <text>,</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRlbnQ6IFN0cmluZywK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>Terms of Use</text>
+        <text>localhost</text>
       </register>
-      <register name="4" type="4">
-        <text>terms_of_use</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRlbnQ6IFN0cmluZywK</text>
       </register>
       <register name="5" type="4">
-        <text>How To Watch</text>
+        <text>Terms of Use</text>
       </register>
       <register name="6" type="4">
-        <text>how_to_watch</text>
+        <text>terms_of_use</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -713,10 +713,10 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>Faqs</text>
+        <text>How To Watch</text>
       </register>
       <register name="8" type="4">
-        <text>faq</text>
+        <text>how_to_watch</text>
       </register>
       <register name="9" type="4">
         <text>Faqs</text>
