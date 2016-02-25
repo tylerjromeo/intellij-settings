@@ -96,11 +96,11 @@
         <mark key="^" line="120" column="151" />
         <mark key="." line="120" column="151" />
       </file>
-      <file name="$USER_HOME$/dev/predix/websocket-data-stream/src/main/scala-2.11/com/willowtree/predix/fakedata/DataGenerator.scala" timestamp="1456410338007">
-        <mark key="[" line="18" column="25" />
-        <mark key="]" line="18" column="26" />
-        <mark key="^" line="18" column="25" />
-        <mark key="." line="18" column="26" />
+      <file name="$USER_HOME$/dev/predix/websocket-data-stream/src/main/scala-2.11/com/willowtree/predix/fakedata/DataGenerator.scala" timestamp="1456412110269">
+        <mark key="[" line="24" column="56" />
+        <mark key="]" line="25" column="87" />
+        <mark key="." line="25" column="87" />
+        <mark key="^" line="25" column="87" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/model/Test.scala" timestamp="1450201218164">
         <mark key="[" line="11" column="0" />
@@ -678,10 +678,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MainService.route ~</text>
+        <text>Source.</text>
       </register>
       <register name="-" type="4">
-        <text>MainService.route ~</text>
+        <text>Source.</text>
       </register>
       <register name="/" type="4">
         <text>Help</text>
@@ -690,22 +690,22 @@
         <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArPSAiY29tLnR5cGVzYWZlLmFra2EiICUlICJha2thLWh0dHAtY29yZS1leHBlcmltZW50YWwiICUgIjIuMC4zIgo=</text>
       </register>
       <register name="1" type="4">
-        <text>MainService.route ~</text>
+        <text>Source.</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLnNjYWxhYy5ha2thLmh0dHAud2Vic29ja2V0cy5zZXJ2aWNlcy57RWNob1NlcnZpY2UsIE1haW5TZXJ2aWNlfQo=</text>
+      <register name="2" type="4">
+        <text>(1 to 10)</text>
       </register>
-      <register name="3" type="4">
-        <text>akka-http-core-experimental</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICB2YWwgdGltZVNlcmllc1NvdXJjZTogU291cmNlCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>akka-http-core-experimental</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmlvLlNvdXJjZQo=</text>
       </register>
       <register name="5" type="4">
-        <text>%</text>
+        <text encoding="base64">CmNsYXNzIERhdGFHZW5lcmF0b3IgewoKfQ==</text>
       </register>
       <register name="6" type="4">
-        <text>1</text>
+        <text>MainService.route ~</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -748,14 +748,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text>1</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGlvLnNjYWxhYy5ha2thLmh0dHAud2Vic29ja2V0cy5zZXJ2aWNlcy57RWNob1NlcnZpY2UsIE1haW5TZXJ2aWNlfQo=</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text>akka-http-core-experimental</text>
       </register>
       <register name="9" type="4">
-        <text>2</text>
+        <text>akka-http-core-experimental</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
