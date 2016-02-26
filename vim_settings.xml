@@ -96,11 +96,11 @@
         <mark key="^" line="120" column="151" />
         <mark key="." line="120" column="151" />
       </file>
-      <file name="$USER_HOME$/dev/predix/websocket-data-stream/src/main/scala-2.11/com/willowtree/predix/fakedata/DataGenerator.scala" timestamp="1456427955066">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="37" column="56" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/dev/predix/websocket-data-stream/src/main/scala-2.11/com/willowtree/predix/fakedata/DataGenerator.scala" timestamp="1456444724981">
+        <mark key="[" line="59" column="9" />
+        <mark key="]" line="59" column="10" />
+        <mark key="." line="59" column="10" />
+        <mark key="^" line="59" column="10" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/model/Test.scala" timestamp="1450201218164">
         <mark key="[" line="11" column="0" />
@@ -201,11 +201,11 @@
         <mark key="^" line="10" column="86" />
         <mark key="." line="10" column="86" />
       </file>
-      <file name="$USER_HOME$/dev/predix/websocket-data-stream/src/main/scala-2.11/com/willowtree/predix/fakedata/Server.scala" timestamp="1456427849857">
-        <mark key="[" line="36" column="20" />
-        <mark key="]" line="37" column="63" />
-        <mark key="." line="37" column="63" />
-        <mark key="^" line="37" column="63" />
+      <file name="$USER_HOME$/dev/predix/websocket-data-stream/src/main/scala-2.11/com/willowtree/predix/fakedata/Server.scala" timestamp="1456444651777">
+        <mark key="[" line="41" column="76" />
+        <mark key="]" line="41" column="87" />
+        <mark key="." line="41" column="87" />
+        <mark key="^" line="41" column="87" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/web/Boot.scala" timestamp="1444766306368">
         <mark key="[" line="21" column="37" />
@@ -460,9 +460,6 @@
       </file>
       <file name="$USER_HOME$/dev/predix/websocket-data-stream/src/main/resources/application.conf" timestamp="1456410426112">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/test/scala/ExampleSpec.scala" timestamp="1444249439617">
         <mark key="[" line="23" column="7" />
@@ -677,35 +674,35 @@
       <jump line="52" column="16" filename="$USER_HOME$/dev/salix/cbc-cms/setupTool/src/main/resources/db/migration/V2_1__Initial_Data_lionsgate.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>[TimeSeriesPoint]</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">XSkg</text>
+        <text>[TimeSeriesPoint]</text>
       </register>
       <register name="/" type="4">
         <text>Help</text>
       </register>
-      <register name="0" type="4">
-        <text>(Long, Double)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNyZWF0ZVRocm90dGxlZFRpbWVTZXJpZXNTb3VyY2UoIkRpc2NoYXJnZVByZXNzdXJlIiksCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>[TimeSeriesPoint]</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly9UT0RPOiBkbyB0aGlzIHdpdGggc3ByYXkganNvbiBpbnN0ZWFkCiAgZGVmIGNvbnZlcnRUb0pzb24odDogVGltZVNlcmllc1BvaW50KTogU3RyaW5nID0gcyIiInsibmFtZSI6IiR7dC5uYW1lfSIsImRhdGFwb2ludHMiOlske3QuZGF0YXBvaW50cy5tYXB7Y2FzZSAobCwgZCkgPT4gcyJbJGwsICRkIn19XSwiYXR0cmlidXRlcyI6eyJhc3NldElkIjoiJHt0LmF0dHJpYnV0ZXMuYXNzZXRJZH0iLCJzb3VyY2VUYWdJZCI6IiR7dC5hdHRyaWJ1dGVzLnNvdXJjZVRhZ0lkfSJ9fSIiIgo=</text>
+      <register name="2" type="4">
+        <text>throttledTimeSeriesSource</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">XSkg</text>
+        <text>Discharge</text>
       </register>
       <register name="4" type="4">
-        <text>TimeData</text>
+        <text>Discharge</text>
       </register>
-      <register name="5" type="4">
-        <text>[</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNyZWF0ZVRocm90dGxlZFRpbWVTZXJpZXNTb3VyY2UoIlN1Y3Rpb25QcmVzc3VyZSIpLAo=</text>
       </register>
       <register name="6" type="4">
-        <text>eriesPoint</text>
+        <text>Discharge</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -749,13 +746,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>S</text>
+        <text>)</text>
       </register>
-      <register name="8" type="4">
-        <text>e</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICB2YWwgbXVsdGlTb3VyY2VzID0gU291cmNlLmNvbWJpbmUoKQo=</text>
       </register>
       <register name="9" type="4">
-        <text>m</text>
+        <text>&quot;CompressionRatio&quot;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
