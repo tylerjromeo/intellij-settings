@@ -581,11 +581,11 @@
         <mark key="^" line="28" column="67" />
         <mark key="." line="28" column="67" />
       </file>
-      <file name="$USER_HOME$/dev/lidl-json-store/src/main/resources/application.conf" timestamp="1456262549827">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/dev/lidl-json-store/src/main/resources/application.conf" timestamp="1458675661908">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="28" />
+        <mark key="^" line="4" column="28" />
+        <mark key="." line="4" column="28" />
       </file>
       <file name="$USER_HOME$/dev/burst-acceptance-tests/src/main/scala/com/willowtreeapps/burst/HasWebClient.scala" timestamp="1444419064069">
         <mark key="[" line="19" column="47" />
@@ -691,11 +691,11 @@
       <jump line="52" column="16" filename="$USER_HOME$/dev/salix/cbc-cms/setupTool/src/main/resources/db/migration/V2_1__Initial_Data_lionsgate.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CWNvbXBpbGUoJ29yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1zdGFydGVyJykK</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>[TimeSeriesPoint]</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>Help</text>
@@ -704,22 +704,22 @@
         <text encoding="base64">CWNvbXBpbGUoJ29yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1zdGFydGVyJykK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CgogIEBSZXF1ZXN0TWFwcGluZygiLyIpCiAgQFJlc3BvbnNlQm9keQogIFN0cmluZyBob21lKCkgewogICAgICByZXR1cm4gIkhlbGxvIFdvcmxkISI7CiAgfQ==</text>
+        <text>true</text>
       </register>
       <register name="2" type="4">
-        <text>[TimeSeriesPoint]</text>
+        <text encoding="base64">CgogIEBSZXF1ZXN0TWFwcGluZygiLyIpCiAgQFJlc3BvbnNlQm9keQogIFN0cmluZyBob21lKCkgewogICAgICByZXR1cm4gIkhlbGxvIFdvcmxkISI7CiAgfQ==</text>
       </register>
       <register name="3" type="4">
-        <text>throttledTimeSeriesSource</text>
+        <text>[TimeSeriesPoint]</text>
       </register>
       <register name="4" type="4">
-        <text>Discharge</text>
+        <text>throttledTimeSeriesSource</text>
       </register>
       <register name="5" type="4">
         <text>Discharge</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZVRocm90dGxlZFRpbWVTZXJpZXNTb3VyY2UoIlN1Y3Rpb25QcmVzc3VyZSIpLAo=</text>
+      <register name="6" type="4">
+        <text>Discharge</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -762,14 +762,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text>Discharge</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNyZWF0ZVRocm90dGxlZFRpbWVTZXJpZXNTb3VyY2UoIlN1Y3Rpb25QcmVzc3VyZSIpLAo=</text>
       </register>
       <register name="8" type="4">
-        <text>)</text>
+        <text>Discharge</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICB2YWwgbXVsdGlTb3VyY2VzID0gU291cmNlLmNvbWJpbmUoKQo=</text>
+      <register name="9" type="4">
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
